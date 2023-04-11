@@ -13,5 +13,6 @@ public class Map {
             }
         }
     }
+}
 
-    public void initialize(List<Player> players
+    
