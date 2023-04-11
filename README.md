@@ -1,17 +1,18 @@
 # PROIECT-PAO-234-PUTINEANU-BOGDAN
+## Idea: 
+Hunger games simulator (inspired from the movie/books). A number of players are put into a large arena and must fight to the death.
+ ## Classes:
+Player = participant to a game <br>
+Item = object the participant can use to improve his chances <br>
+Weapon = item type used for fighing <br>
+RangedWeapon <br>
+MeleeWeapon <br>
+UtilityItem = item used for survival purposes (e.g.: lighter, food, etc.) <br>
+Map = the entire area in which the players play the game <br>
+MapSection = a single square of the map <br>
 
-Classes:
-Player = participant to a game instance
-Item = object the participant can use to improve his chances
-Weapon = item type used for fighing
-RangedWeapon
-MeleeWeapon
-UtilityItem = item used for survival purposes (e.g.: lighter, food, etc.)
-Map = the entire area in which the players play the game
-MapSection = a single square of the map 
-
-Operations:
-setters, getters for all
-players: add, remove items, verify isAlive
-map: initialize map sections randomly
-mapService: simulate player movement, simulate player encounter/combat, display winner
+## Operations:
+setters, getters for all <br>
+players: add, remove items, verify isAlive <br>
+map: initialize map sections randomly <br>
+mapService: simulate player movement, simulate player encounter/combat, display winner <br>
