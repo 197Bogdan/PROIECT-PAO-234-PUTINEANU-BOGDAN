@@ -1,6 +1,11 @@
+package model;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Map {
-    private int width;
-    private int height;
+    private final int width;
+    private final int height;
     private List<MapSection> sections;
 
     public Map(int width, int height) {
@@ -13,21 +18,22 @@ public class Map {
             }
         }
     }
-    public void initialize(List<Player> players) {
-        for (int x = 0; x < width; x++) {
-            for (int y = 0; y < height; y++) {
-                sections[x*height + y] = new MapSection(x, y);
-            }
-        }
-        for (Player player : players) {
-            int x = (int) (Math.random() * width);
-            int y = (int) (Math.random() * height);
-            MapSection section = getSection(x, y);
-            section.addPlayer(player);
-            player.setSection(section);
-        }
+
+    public List<MapSection> getSections() {
+        return sections;
     }
 
+    public void setSections(List<MapSection> sections) {
+        this.sections = sections;
+    }
+
+    public int getWidth() {
+        return width;
+    }
+
+    public int getHeight() {
+        return height;
+    }
 }
 
     

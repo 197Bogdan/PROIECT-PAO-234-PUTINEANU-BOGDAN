@@ -1,5 +1,6 @@
+package model;
 public abstract class Weapon extends Item {
-    private int damage;
+    private final int damage;
 
     public Weapon(String name, int damage) {
         super(name);

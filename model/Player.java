@@ -1,8 +1,14 @@
+package model;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Player {
-    private String name;
+    private final String name;
     private int health;
     private Weapon weapon;
-    private List<Item> items;
+    private final List<Item> items;
+    private MapSection section;
 
     public Player(String name, int health) {
         this.name = name;
@@ -34,6 +40,14 @@ public class Player {
         return items;
     }
 
+    public MapSection getSection() {
+        return section;
+    }
+
+    public void setSection(MapSection section) {
+        this.section = section;
+    }
+
     public void addItem(Item item) {
         items.add(item);
     }
@@ -42,7 +56,15 @@ public class Player {
         items.remove(item);
     }
 
-    public boolean isAlive() {
-        return health > 0;
+    public boolean isDead() {
+        return health <= 0;
+    }
+
+    @Override
+    public boolean equals(Object o)
+    {
+        if(!(o instanceof Player))
+            return false;
+        return ((Player) o).name.equals(this.name);
     }
 }

@@ -1,4 +1,8 @@
+import model.*;
+import service.GameService;
+
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Main {
@@ -9,15 +13,17 @@ public class Main {
         player1.setWeapon(new MeleeWeapon("Knife", 10));
         Player player2 = new Player("Player 2", 100);
         player2.setWeapon(new RangedWeapon("Bow", 20));
-        List<Player> players = Arrays.asList(player1, player2);
+        List<Player> players = new LinkedList<>(Arrays.asList(player1, player2));
 
         // create map service
-        MapService mapService = new MapService(10, 10);
+        Map map = new Map(2, 2);
+        Game game = new Game(map, players);
+        GameService gameService = new GameService(game);
 
         // initialize players
-        mapService.initializePlayers(players);
+        gameService.initializePlayers(players);
 
         // simulate game
-        mapService.simulateGame();
+        gameService.simulateGame();
     }
 }

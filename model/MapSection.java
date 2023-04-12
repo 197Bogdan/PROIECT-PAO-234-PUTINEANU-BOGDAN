@@ -1,8 +1,13 @@
+package model;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class MapSection {
-    private int x;
-    private int y;
-    private List<Player> players;
-    private List<Item> items;
+    private final int x;
+    private final int y;
+    private final List<Player> players;
+    private final List<Item> items;
 
     public MapSection(int x, int y) {
         this.x = x;
