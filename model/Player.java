@@ -1,19 +1,19 @@
 package model;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.SortedSet;
+import java.util.TreeSet;
 
 public class Player {
     private final String name;
     private int health;
     private Weapon weapon;
-    private final List<Item> items;
+    private final SortedSet<Weapon> weapons;
     private MapSection section;
 
     public Player(String name, int health) {
         this.name = name;
         this.health = health;
-        this.items = new ArrayList<>();
+        this.weapons = new TreeSet<>();
     }
 
     public String getName() {
@@ -36,9 +36,7 @@ public class Player {
         this.weapon = weapon;
     }
 
-    public List<Item> getItems() {
-        return items;
-    }
+
 
     public MapSection getSection() {
         return section;
@@ -46,14 +44,6 @@ public class Player {
 
     public void setSection(MapSection section) {
         this.section = section;
-    }
-
-    public void addItem(Item item) {
-        items.add(item);
-    }
-
-    public void removeItem(Item item) {
-        items.remove(item);
     }
 
     public boolean isDead() {

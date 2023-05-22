@@ -1,0 +1,4 @@
+name,type,damage,accuracy,spawnRate,attackRate,priority,uses
+Sword,melee,20,80,50,1.5,3,100
+Bow,ranged,15,70,50,2.0,2,30
+Axe,melee,25,75,50,1.2,4,120

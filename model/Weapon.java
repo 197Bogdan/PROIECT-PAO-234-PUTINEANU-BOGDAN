@@ -1,5 +1,5 @@
 package model;
-public abstract class Weapon extends Item {
+public abstract class Weapon extends Item implements Comparable<Weapon> {
     private final int damage;
     private final float accuracy;
     private final int spawnRate;
@@ -17,5 +17,26 @@ public abstract class Weapon extends Item {
 
     public int getDamage() {
         return damage;
+    }
+
+    public float getAccuracy() {
+        return accuracy;
+    }
+
+    public int getSpawnRate() {
+        return spawnRate;
+    }
+
+    public float getAttackRate() {
+        return attackRate;
+    }
+
+    public int getPriority() {
+        return priority;
+    }
+
+    @Override
+    public int compareTo(Weapon o) {
+        return this.priority - o.priority;
     }
 }
