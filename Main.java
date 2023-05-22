@@ -18,8 +18,7 @@ public class Main {
         ArrayList<String> registeredPlayers = playersReader.readPlayers();
 
         //load map history
-        MapsCSVService mapsReader = MapsCSVService.getInstance();
-        ArrayList<Map> mapsHistory = mapsReader.readMaps();
+        ArrayList<Map> mapsHistory = MapsJDBCService.readMaps();
 
         int player_count = 25;
         // register new players
@@ -47,6 +46,6 @@ public class Main {
         gameService.simulateGame();
 
         //add map to history
-        mapsReader.addMap(map);
+        MapsJDBCService.addMap(map, newId);
     }
 }
