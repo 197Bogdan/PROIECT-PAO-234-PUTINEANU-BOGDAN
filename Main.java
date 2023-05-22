@@ -14,18 +14,17 @@ public class Main {
         ArrayList<GameHistory> gameHistory = GamesJDBCService.readGames();
 
         //load past players
-        PlayersCSVService playersReader = PlayersCSVService.getInstance();
-        ArrayList<String> registeredPlayers = playersReader.readPlayers();
+        ArrayList<String> registeredPlayers = PlayersJDBCService.readPlayers();
 
         //load map history
         ArrayList<Map> mapsHistory = MapsJDBCService.readMaps();
 
-        int player_count = 25;
+        int player_count = 50;
         // register new players
         int lastPlayerId =  Integer.parseInt(registeredPlayers.get(registeredPlayers.size() - 1).split(" ")[1]);
         if(player_count > lastPlayerId)
             for(int i=lastPlayerId+1;i < player_count;i++)
-                playersReader.addPlayer("Player " + i);
+                PlayersJDBCService.addPlayer("Player " + i);
         // create players
 
         List<Player> players = new ArrayList<>();
@@ -34,7 +33,7 @@ public class Main {
 
         // create new game
         int newId = gameHistory.get(gameHistory.size() - 1).getGameId() + 1;
-        Map map = new Map(50, 50);
+        Map map = new Map(12, 35);
         Game game = new Game(map, players, newId);
         GameService gameService = new GameService(game);
 

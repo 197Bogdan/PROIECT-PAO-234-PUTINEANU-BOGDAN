@@ -21046,3 +21046,2262 @@
 2023-05-22T21:14:26.607454600Z,Encounter finished!
 
 2023-05-22T21:14:26.611465500Z,Player 0 wins!
+2023-05-22T21:19:15.181855700Z,Creating map...
+2023-05-22T21:19:15.189915300Z,Spawning items...
+2023-05-22T21:19:15.196917200Z,Creating map...
+2023-05-22T21:19:15.201989400Z,Spawning items...
+2023-05-22T21:19:15.396466900Z,Creating map...
+2023-05-22T21:19:15.401536700Z,Spawning items...
+2023-05-22T21:19:15.407538400Z,Starting game... (game id: 6)
+2023-05-22T21:19:15.412613600Z,Players spawned randomly!
+2023-05-22T21:19:15.417614700Z,Players move randomly!
+2023-05-22T21:19:15.425692700Z,Player 20 finds a(n) Bow
+2023-05-22T21:19:15.430692800Z,Players move randomly!
+2023-05-22T21:19:15.436777500Z,Player 11 finds a(n) Bow
+2023-05-22T21:19:15.441779100Z,Players move randomly!
+2023-05-22T21:19:15.446781300Z,Player 0 finds a(n) Bow
+2023-05-22T21:19:15.451782400Z,Player 2 finds a(n) Bow
+2023-05-22T21:19:15.455842300Z,Player 18 finds a(n) Bow
+2023-05-22T21:19:15.461845100Z,Players move randomly!
+2023-05-22T21:19:15.465914500Z,Encounter started!
+2023-05-22T21:19:15.473917600Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.478989200Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.483990700Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.489056400Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.493055700Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.498119700Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.503121Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.508195400Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.512196300Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.517197300Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.523276200Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.527276100Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.533372400Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.538373300Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.542447400Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.547448700Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.552526Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.557527Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.561605800Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.566607Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.571686500Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.575686300Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.580687400Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.585759300Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.589761100Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.594837900Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.599839300Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.604914600Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.609915900Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.613979900Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.618980Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.623982300Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.628069100Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.633070Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.638136600Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.643137800Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.648211300Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.652211100Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.657284200Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.661284200Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.666285300Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.671339200Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.675340100Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.680417500Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.684418700Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.688419200Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.693507Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.697508600Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.701598500Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.706599500Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.710707800Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.714707600Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.719708600Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.724125200Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.729128300Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.733516Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.737516200Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.742518Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.746623500Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.751106200Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.755211200Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.759574Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.763669800Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.767668900Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.771679400Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.775741600Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.779742500Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.783743300Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.787808100Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.791808900Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.796730100Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.800729200Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.804730200Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.809833300Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.814240300Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.818677300Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.822834800Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.826200800Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.831325Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.834325400Z,Player 21 attacks Player 10 with Fist! (hit)
+2023-05-22T21:19:15.838518600Z,Player 21 attacks Player 10 with Fist! (miss)
+2023-05-22T21:19:15.843518900Z,Player 10 attacks Player 21 with Fist! (hit)
+2023-05-22T21:19:15.847519100Z,Player 10 attacks Player 21 with Fist! (miss)
+2023-05-22T21:19:15.852616600Z,Player 21 dies!
+2023-05-22T21:19:15.857620300Z,Encounter finished!
+
+2023-05-22T21:19:15.862804600Z,Players move randomly!
+2023-05-22T21:19:15.867817300Z,Player 7 finds a(n) Bow
+2023-05-22T21:19:15.871904200Z,Player 18 finds a(n) Axe
+2023-05-22T21:19:15.876905100Z,Players move randomly!
+2023-05-22T21:19:15.881493700Z,Player 13 finds a(n) Sword
+2023-05-22T21:19:15.886167700Z,Players move randomly!
+2023-05-22T21:19:15.891178300Z,Player 10 finds a(n) Bow
+2023-05-22T21:19:15.896293900Z,Player 11 finds a(n) Bow
+2023-05-22T21:19:15.900912100Z,Players move randomly!
+2023-05-22T21:19:15.905410Z,Player 8 finds a(n) Sword
+2023-05-22T21:19:15.910412500Z,Player 24 finds a(n) Sword
+2023-05-22T21:19:15.915114100Z,Player 14 finds a(n) Sword
+2023-05-22T21:19:15.919626600Z,Players move randomly!
+2023-05-22T21:19:15.924742500Z,Player 4 finds a(n) Sword
+2023-05-22T21:19:15.929340300Z,Player 8 finds a(n) Axe
+2023-05-22T21:19:15.933352700Z,Player 3 finds a(n) Bow
+2023-05-22T21:19:15.938473800Z,Player 18 finds a(n) Sword
+2023-05-22T21:19:15.943465900Z,Players move randomly!
+2023-05-22T21:19:15.948537400Z,Player 19 finds a(n) Axe
+2023-05-22T21:19:15.954539700Z,Players move randomly!
+2023-05-22T21:19:15.960608600Z,Player 0 finds a(n) Sword
+2023-05-22T21:19:15.965609700Z,Player 17 finds a(n) Bow
+2023-05-22T21:19:15.969677400Z,Players move randomly!
+2023-05-22T21:19:15.974678400Z,Player 6 finds a(n) Bow
+2023-05-22T21:19:15.978727100Z,Players move randomly!
+2023-05-22T21:19:15.983728200Z,Player 7 finds a(n) Sword
+2023-05-22T21:19:15.988792100Z,Players move randomly!
+2023-05-22T21:19:15.993793600Z,Player 4 finds a(n) Bow
+2023-05-22T21:19:15.997857800Z,Players move randomly!
+2023-05-22T21:19:16.002857500Z,Encounter started!
+2023-05-22T21:19:16.006859Z,Player 17 attacks Player 22 with Bow! (miss)
+2023-05-22T21:19:16.011961700Z,Player 22 attacks Player 17 with Fist! (hit)
+2023-05-22T21:19:16.016191400Z,Player 22 attacks Player 17 with Fist! (miss)
+2023-05-22T21:19:16.020319300Z,Player 17 attacks Player 22 with Bow! (hit)
+2023-05-22T21:19:16.024327200Z,Player 17 attacks Player 22 with Bow! (miss)
+2023-05-22T21:19:16.028319Z,Player 22 attacks Player 17 with Fist! (hit)
+2023-05-22T21:19:16.033417500Z,Player 22 attacks Player 17 with Fist! (miss)
+2023-05-22T21:19:16.038418900Z,Player 17 attacks Player 22 with Bow! (miss)
+2023-05-22T21:19:16.042501100Z,Player 22 attacks Player 17 with Fist! (hit)
+2023-05-22T21:19:16.046504Z,Player 22 attacks Player 17 with Fist! (miss)
+2023-05-22T21:19:16.050878100Z,Player 17 attacks Player 22 with Bow! (miss)
+2023-05-22T21:19:16.055956100Z,Player 22 attacks Player 17 with Fist! (hit)
+2023-05-22T21:19:16.059956900Z,Player 22 attacks Player 17 with Fist! (miss)
+2023-05-22T21:19:16.064024300Z,Player 17 attacks Player 22 with Bow! (hit)
+2023-05-22T21:19:16.069025400Z,Player 17 attacks Player 22 with Bow! (miss)
+2023-05-22T21:19:16.073126900Z,Player 22 attacks Player 17 with Fist! (hit)
+2023-05-22T21:19:16.078127100Z,Player 22 attacks Player 17 with Fist! (miss)
+2023-05-22T21:19:16.082127900Z,Player 17 attacks Player 22 with Bow! (hit)
+2023-05-22T21:19:16.086957400Z,Player 17 attacks Player 22 with Bow! (miss)
+2023-05-22T21:19:16.090961100Z,Player 22 dies!
+2023-05-22T21:19:16.096040500Z,Encounter finished!
+
+2023-05-22T21:19:16.100041400Z,Player 9 finds a(n) Sword
+2023-05-22T21:19:16.105637Z,Player 20 finds a(n) Sword
+2023-05-22T21:19:16.109635800Z,Players move randomly!
+2023-05-22T21:19:16.114636200Z,Player 7 finds a(n) Axe
+2023-05-22T21:19:16.118706700Z,Players move randomly!
+2023-05-22T21:19:16.123707900Z,Player 4 finds a(n) Bow
+2023-05-22T21:19:16.128782800Z,Players move randomly!
+2023-05-22T21:19:16.132783600Z,Player 14 finds a(n) Sword
+2023-05-22T21:19:16.137874400Z,Players move randomly!
+2023-05-22T21:19:16.142873300Z,Players move randomly!
+2023-05-22T21:19:16.146874100Z,Players move randomly!
+2023-05-22T21:19:16.151953Z,Player 6 finds a(n) Bow
+2023-05-22T21:19:16.156953900Z,Players move randomly!
+2023-05-22T21:19:16.161046800Z,Player 6 finds a(n) Axe
+2023-05-22T21:19:16.166047900Z,Players move randomly!
+2023-05-22T21:19:16.171131Z,Player 6 finds a(n) Bow
+2023-05-22T21:19:16.176135200Z,Player 9 finds a(n) Sword
+2023-05-22T21:19:16.180236900Z,Player 9 finds a(n) Bow
+2023-05-22T21:19:16.185237500Z,Players move randomly!
+2023-05-22T21:19:16.189238800Z,Player 19 finds a(n) Sword
+2023-05-22T21:19:16.194344100Z,Players move randomly!
+2023-05-22T21:19:16.198345600Z,Player 0 finds a(n) Sword
+2023-05-22T21:19:16.203428400Z,Player 5 finds a(n) Sword
+2023-05-22T21:19:16.207429700Z,Player 19 finds a(n) Sword
+2023-05-22T21:19:16.212511800Z,Players move randomly!
+2023-05-22T21:19:16.216512200Z,Player 12 finds a(n) Sword
+2023-05-22T21:19:16.221513600Z,Players move randomly!
+2023-05-22T21:19:16.226621100Z,Encounter started!
+2023-05-22T21:19:16.231622500Z,Player 14 attacks Player 15 with Sword! (miss)
+2023-05-22T21:19:16.236711100Z,Player 15 attacks Player 14 with Fist! (hit)
+2023-05-22T21:19:16.240712300Z,Player 15 attacks Player 14 with Fist! (miss)
+2023-05-22T21:19:16.246788600Z,Player 14 attacks Player 15 with Sword! (hit)
+2023-05-22T21:19:16.251790500Z,Player 14 attacks Player 15 with Sword! (miss)
+2023-05-22T21:19:16.256873500Z,Player 15 attacks Player 14 with Fist! (hit)
+2023-05-22T21:19:16.261873500Z,Player 15 attacks Player 14 with Fist! (miss)
+2023-05-22T21:19:16.266968400Z,Player 14 attacks Player 15 with Sword! (hit)
+2023-05-22T21:19:16.271969400Z,Player 14 attacks Player 15 with Sword! (miss)
+2023-05-22T21:19:16.276043900Z,Player 15 attacks Player 14 with Fist! (hit)
+2023-05-22T21:19:16.282044100Z,Player 15 attacks Player 14 with Fist! (miss)
+2023-05-22T21:19:16.287128Z,Player 14 attacks Player 15 with Sword! (hit)
+2023-05-22T21:19:16.292128700Z,Player 14 attacks Player 15 with Sword! (miss)
+2023-05-22T21:19:16.297200700Z,Player 15 attacks Player 14 with Fist! (hit)
+2023-05-22T21:19:16.302201200Z,Player 15 attacks Player 14 with Fist! (miss)
+2023-05-22T21:19:16.306202100Z,Player 14 attacks Player 15 with Sword! (hit)
+2023-05-22T21:19:16.311300600Z,Player 14 attacks Player 15 with Sword! (miss)
+2023-05-22T21:19:16.317301700Z,Player 15 attacks Player 14 with Fist! (hit)
+2023-05-22T21:19:16.321383900Z,Player 15 attacks Player 14 with Fist! (miss)
+2023-05-22T21:19:16.326385700Z,Player 14 attacks Player 15 with Sword! (miss)
+2023-05-22T21:19:16.331450600Z,Player 15 attacks Player 14 with Fist! (hit)
+2023-05-22T21:19:16.335451400Z,Player 15 attacks Player 14 with Fist! (miss)
+2023-05-22T21:19:16.339522600Z,Player 14 attacks Player 15 with Sword! (miss)
+2023-05-22T21:19:16.344522800Z,Player 15 attacks Player 14 with Fist! (hit)
+2023-05-22T21:19:16.348523700Z,Player 15 attacks Player 14 with Fist! (miss)
+2023-05-22T21:19:16.353585800Z,Player 14 attacks Player 15 with Sword! (hit)
+2023-05-22T21:19:16.357587500Z,Player 14 attacks Player 15 with Sword! (miss)
+2023-05-22T21:19:16.362415Z,Player 15 dies!
+2023-05-22T21:19:16.366406800Z,Encounter finished!
+
+2023-05-22T21:19:16.371498500Z,Player 20 finds a(n) Bow
+2023-05-22T21:19:16.376498600Z,Players move randomly!
+2023-05-22T21:19:16.381499200Z,Encounter started!
+2023-05-22T21:19:16.386581200Z,Player 4 attacks Player 8 with Sword! (miss)
+2023-05-22T21:19:16.391582800Z,Player 8 attacks Player 4 with Axe! (miss)
+2023-05-22T21:19:16.396667700Z,Player 4 attacks Player 8 with Sword! (hit)
+2023-05-22T21:19:16.400668700Z,Player 4 attacks Player 8 with Sword! (miss)
+2023-05-22T21:19:16.405757300Z,Player 8 attacks Player 4 with Axe! (hit)
+2023-05-22T21:19:16.410758100Z,Player 8 attacks Player 4 with Axe! (miss)
+2023-05-22T21:19:16.414848600Z,Player 4 attacks Player 8 with Sword! (hit)
+2023-05-22T21:19:16.419849900Z,Player 4 attacks Player 8 with Sword! (miss)
+2023-05-22T21:19:16.424850900Z,Player 8 attacks Player 4 with Axe! (hit)
+2023-05-22T21:19:16.428944700Z,Player 8 attacks Player 4 with Axe! (miss)
+2023-05-22T21:19:16.433945800Z,Player 4 attacks Player 8 with Sword! (hit)
+2023-05-22T21:19:16.438054500Z,Player 4 attacks Player 8 with Sword! (miss)
+2023-05-22T21:19:16.443056200Z,Player 8 attacks Player 4 with Axe! (miss)
+2023-05-22T21:19:16.447056600Z,Player 4 attacks Player 8 with Sword! (miss)
+2023-05-22T21:19:16.452057600Z,Player 8 attacks Player 4 with Axe! (hit)
+2023-05-22T21:19:16.457168100Z,Player 8 attacks Player 4 with Axe! (miss)
+2023-05-22T21:19:16.462166600Z,Player 4 attacks Player 8 with Sword! (hit)
+2023-05-22T21:19:16.467223800Z,Player 4 attacks Player 8 with Sword! (miss)
+2023-05-22T21:19:16.472284900Z,Player 8 attacks Player 4 with Axe! (hit)
+2023-05-22T21:19:16.476285700Z,Player 8 attacks Player 4 with Axe! (miss)
+2023-05-22T21:19:16.481383800Z,Player 4 dies!
+2023-05-22T21:19:16.486384900Z,Encounter finished!
+
+2023-05-22T21:19:16.491490600Z,Player 7 finds a(n) Sword
+2023-05-22T21:19:16.495491500Z,Players move randomly!
+2023-05-22T21:19:16.500580300Z,Player 13 finds a(n) Axe
+2023-05-22T21:19:16.505581Z,Player 13 finds a(n) Bow
+2023-05-22T21:19:16.510667Z,Player 5 finds a(n) Bow
+2023-05-22T21:19:16.514667100Z,Players move randomly!
+2023-05-22T21:19:16.519668Z,Player 2 finds a(n) Bow
+2023-05-22T21:19:16.524744300Z,Players move randomly!
+2023-05-22T21:19:16.528745200Z,Player 1 finds a(n) Bow
+2023-05-22T21:19:16.533821500Z,Player 2 finds a(n) Bow
+2023-05-22T21:19:16.538822600Z,Players move randomly!
+2023-05-22T21:19:16.543911800Z,Player 20 finds a(n) Axe
+2023-05-22T21:19:16.549912400Z,Player 20 finds a(n) Bow
+2023-05-22T21:19:16.554990700Z,Players move randomly!
+2023-05-22T21:19:16.559992500Z,Players move randomly!
+2023-05-22T21:19:16.565068400Z,Player 7 finds a(n) Axe
+2023-05-22T21:19:16.570069200Z,Players move randomly!
+2023-05-22T21:19:16.574151Z,Players move randomly!
+2023-05-22T21:19:16.579150Z,Player 7 finds a(n) Bow
+2023-05-22T21:19:16.583150500Z,Players move randomly!
+2023-05-22T21:19:16.588242Z,Players move randomly!
+2023-05-22T21:19:16.593243400Z,Player 6 finds a(n) Sword
+2023-05-22T21:19:16.598037700Z,Players move randomly!
+2023-05-22T21:19:16.602477600Z,Encounter started!
+2023-05-22T21:19:16.606552400Z,Player 23 attacks Player 24 with Fist! (hit)
+2023-05-22T21:19:16.611562300Z,Player 23 attacks Player 24 with Fist! (miss)
+2023-05-22T21:19:16.615553400Z,Player 24 attacks Player 23 with Sword! (hit)
+2023-05-22T21:19:16.620706300Z,Player 24 attacks Player 23 with Sword! (miss)
+2023-05-22T21:19:16.624706400Z,Player 23 attacks Player 24 with Fist! (hit)
+2023-05-22T21:19:16.628790Z,Player 23 attacks Player 24 with Fist! (miss)
+2023-05-22T21:19:16.633616900Z,Player 24 attacks Player 23 with Sword! (miss)
+2023-05-22T21:19:16.638051300Z,Player 23 attacks Player 24 with Fist! (hit)
+2023-05-22T21:19:16.642292400Z,Player 23 attacks Player 24 with Fist! (miss)
+2023-05-22T21:19:16.646302Z,Player 24 attacks Player 23 with Sword! (hit)
+2023-05-22T21:19:16.649870700Z,Player 24 attacks Player 23 with Sword! (miss)
+2023-05-22T21:19:16.654591700Z,Player 23 attacks Player 24 with Fist! (hit)
+2023-05-22T21:19:16.658594900Z,Player 23 attacks Player 24 with Fist! (miss)
+2023-05-22T21:19:16.662690600Z,Player 24 attacks Player 23 with Sword! (hit)
+2023-05-22T21:19:16.666730900Z,Player 24 attacks Player 23 with Sword! (miss)
+2023-05-22T21:19:16.671527400Z,Player 23 attacks Player 24 with Fist! (hit)
+2023-05-22T21:19:16.675526700Z,Player 23 attacks Player 24 with Fist! (miss)
+2023-05-22T21:19:16.679527600Z,Player 24 attacks Player 23 with Sword! (miss)
+2023-05-22T21:19:16.684091400Z,Player 23 attacks Player 24 with Fist! (hit)
+2023-05-22T21:19:16.688103800Z,Player 23 attacks Player 24 with Fist! (miss)
+2023-05-22T21:19:16.692197400Z,Player 24 attacks Player 23 with Sword! (hit)
+2023-05-22T21:19:16.696206700Z,Player 24 attacks Player 23 with Sword! (miss)
+2023-05-22T21:19:16.700197900Z,Player 23 attacks Player 24 with Fist! (hit)
+2023-05-22T21:19:16.704207500Z,Player 23 attacks Player 24 with Fist! (miss)
+2023-05-22T21:19:16.708204100Z,Player 24 attacks Player 23 with Sword! (hit)
+2023-05-22T21:19:16.712204900Z,Player 24 attacks Player 23 with Sword! (miss)
+2023-05-22T21:19:16.717302600Z,Player 23 dies!
+2023-05-22T21:19:16.721302300Z,Encounter finished!
+
+2023-05-22T21:19:16.725409300Z,Player 13 finds a(n) Sword
+2023-05-22T21:19:16.730381Z,Players move randomly!
+2023-05-22T21:19:16.734374Z,Players move randomly!
+2023-05-22T21:19:16.739461500Z,Player 1 finds a(n) Bow
+2023-05-22T21:19:16.743462200Z,Player 19 finds a(n) Sword
+2023-05-22T21:19:16.747538400Z,Players move randomly!
+2023-05-22T21:19:16.753539200Z,Players move randomly!
+2023-05-22T21:19:16.757621300Z,Players move randomly!
+2023-05-22T21:19:16.763623600Z,Player 24 finds a(n) Bow
+2023-05-22T21:19:16.768720600Z,Player 5 finds a(n) Bow
+2023-05-22T21:19:16.772721100Z,Players move randomly!
+2023-05-22T21:19:16.777796100Z,Players move randomly!
+2023-05-22T21:19:16.782797400Z,Players move randomly!
+2023-05-22T21:19:16.786798200Z,Encounter started!
+2023-05-22T21:19:16.790879400Z,Player 0 attacks Player 8 with Sword! (hit)
+2023-05-22T21:19:16.795880700Z,Player 0 attacks Player 8 with Sword! (miss)
+2023-05-22T21:19:16.799952500Z,Player 8 dies!
+2023-05-22T21:19:16.805764100Z,Encounter finished!
+
+2023-05-22T21:19:16.810185900Z,Encounter started!
+2023-05-22T21:19:16.815186300Z,Player 1 attacks Player 5 with Bow! (hit)
+2023-05-22T21:19:16.819187Z,Player 1 attacks Player 5 with Bow! (miss)
+2023-05-22T21:19:16.823272800Z,Player 5 attacks Player 1 with Sword! (hit)
+2023-05-22T21:19:16.828854300Z,Player 5 attacks Player 1 with Sword! (miss)
+2023-05-22T21:19:16.832962Z,Player 1 attacks Player 5 with Bow! (miss)
+2023-05-22T21:19:16.838061400Z,Player 5 attacks Player 1 with Sword! (hit)
+2023-05-22T21:19:16.842630900Z,Player 5 attacks Player 1 with Sword! (miss)
+2023-05-22T21:19:16.847003500Z,Player 1 attacks Player 5 with Bow! (miss)
+2023-05-22T21:19:16.850326300Z,Player 5 attacks Player 1 with Sword! (hit)
+2023-05-22T21:19:16.855807100Z,Player 5 attacks Player 1 with Sword! (miss)
+2023-05-22T21:19:16.859806200Z,Player 1 attacks Player 5 with Bow! (miss)
+2023-05-22T21:19:16.864067100Z,Player 5 attacks Player 1 with Sword! (hit)
+2023-05-22T21:19:16.868080400Z,Player 5 attacks Player 1 with Sword! (miss)
+2023-05-22T21:19:16.872419Z,Player 1 attacks Player 5 with Bow! (hit)
+2023-05-22T21:19:16.876536500Z,Player 1 attacks Player 5 with Bow! (miss)
+2023-05-22T21:19:16.880537200Z,Player 5 attacks Player 1 with Sword! (miss)
+2023-05-22T21:19:16.884605Z,Player 1 attacks Player 5 with Bow! (hit)
+2023-05-22T21:19:16.889522900Z,Player 1 attacks Player 5 with Bow! (miss)
+2023-05-22T21:19:16.893535200Z,Player 5 dies!
+2023-05-22T21:19:16.897652900Z,Encounter finished!
+
+2023-05-22T21:19:16.901492600Z,Players move randomly!
+2023-05-22T21:19:16.906595100Z,Players move randomly!
+2023-05-22T21:19:16.910586500Z,Players move randomly!
+2023-05-22T21:19:16.914587600Z,Players move randomly!
+2023-05-22T21:19:16.919650Z,Players move randomly!
+2023-05-22T21:19:16.924685200Z,Encounter started!
+2023-05-22T21:19:16.928819600Z,Player 11 attacks Player 20 with Bow! (miss)
+2023-05-22T21:19:16.932812300Z,Player 20 attacks Player 11 with Axe! (hit)
+2023-05-22T21:19:16.936811800Z,Player 20 attacks Player 11 with Axe! (miss)
+2023-05-22T21:19:16.941924700Z,Player 11 attacks Player 20 with Bow! (miss)
+2023-05-22T21:19:16.945925300Z,Player 20 attacks Player 11 with Axe! (hit)
+2023-05-22T21:19:16.951010800Z,Player 20 attacks Player 11 with Axe! (miss)
+2023-05-22T21:19:16.955645800Z,Player 11 attacks Player 20 with Bow! (miss)
+2023-05-22T21:19:16.959724600Z,Player 20 attacks Player 11 with Axe! (hit)
+2023-05-22T21:19:16.964336700Z,Player 20 attacks Player 11 with Axe! (miss)
+2023-05-22T21:19:16.968338100Z,Player 11 attacks Player 20 with Bow! (hit)
+2023-05-22T21:19:16.973449800Z,Player 11 attacks Player 20 with Bow! (miss)
+2023-05-22T21:19:16.977449700Z,Player 20 attacks Player 11 with Axe! (miss)
+2023-05-22T21:19:16.981532Z,Player 11 attacks Player 20 with Bow! (hit)
+2023-05-22T21:19:16.986390800Z,Player 11 attacks Player 20 with Bow! (miss)
+2023-05-22T21:19:16.990391700Z,Player 20 attacks Player 11 with Axe! (hit)
+2023-05-22T21:19:16.994485200Z,Player 20 attacks Player 11 with Axe! (miss)
+2023-05-22T21:19:16.999476500Z,Player 11 dies!
+2023-05-22T21:19:17.003590800Z,Encounter finished!
+
+2023-05-22T21:19:17.008692400Z,Player 12 finds a(n) Bow
+2023-05-22T21:19:17.012786800Z,Players move randomly!
+2023-05-22T21:19:17.017787300Z,Players move randomly!
+2023-05-22T21:19:17.022115400Z,Players move randomly!
+2023-05-22T21:19:17.026114900Z,Players move randomly!
+2023-05-22T21:19:17.031116100Z,Players move randomly!
+2023-05-22T21:19:17.035840600Z,Encounter started!
+2023-05-22T21:19:17.039841300Z,Player 17 attacks Player 20 with Bow! (miss)
+2023-05-22T21:19:17.043927800Z,Player 20 attacks Player 17 with Axe! (miss)
+2023-05-22T21:19:17.049160500Z,Player 17 attacks Player 20 with Bow! (miss)
+2023-05-22T21:19:17.053172700Z,Player 20 attacks Player 17 with Axe! (hit)
+2023-05-22T21:19:17.057254300Z,Player 20 attacks Player 17 with Axe! (miss)
+2023-05-22T21:19:17.062245500Z,Player 17 attacks Player 20 with Bow! (hit)
+2023-05-22T21:19:17.066310400Z,Player 17 attacks Player 20 with Bow! (miss)
+2023-05-22T21:19:17.070311200Z,Player 20 dies!
+2023-05-22T21:19:17.075390400Z,Encounter finished!
+
+2023-05-22T21:19:17.079653600Z,Players move randomly!
+2023-05-22T21:19:17.083655700Z,Player 2 finds a(n) Sword
+2023-05-22T21:19:17.087696500Z,Players move randomly!
+2023-05-22T21:19:17.091696300Z,Players move randomly!
+2023-05-22T21:19:17.095697100Z,Player 6 finds a(n) Sword
+2023-05-22T21:19:17.099863100Z,Players move randomly!
+2023-05-22T21:19:17.103875400Z,Players move randomly!
+2023-05-22T21:19:17.108500900Z,Players move randomly!
+2023-05-22T21:19:17.112471Z,Players move randomly!
+2023-05-22T21:19:17.116483Z,Players move randomly!
+2023-05-22T21:19:17.121154800Z,Players move randomly!
+2023-05-22T21:19:17.124153800Z,Encounter started!
+2023-05-22T21:19:17.129234500Z,Player 1 attacks Player 16 with Bow! (miss)
+2023-05-22T21:19:17.133234300Z,Player 16 attacks Player 1 with Fist! (hit)
+2023-05-22T21:19:17.138235700Z,Player 16 attacks Player 1 with Fist! (miss)
+2023-05-22T21:19:17.142342900Z,Player 1 attacks Player 16 with Bow! (hit)
+2023-05-22T21:19:17.147344Z,Player 1 attacks Player 16 with Bow! (miss)
+2023-05-22T21:19:17.152447800Z,Player 16 attacks Player 1 with Fist! (hit)
+2023-05-22T21:19:17.156448800Z,Player 16 attacks Player 1 with Fist! (miss)
+2023-05-22T21:19:17.161546400Z,Player 1 attacks Player 16 with Bow! (miss)
+2023-05-22T21:19:17.166547800Z,Player 16 attacks Player 1 with Fist! (miss)
+2023-05-22T21:19:17.170548600Z,Player 1 attacks Player 16 with Bow! (hit)
+2023-05-22T21:19:17.175398Z,Player 1 attacks Player 16 with Bow! (miss)
+2023-05-22T21:19:17.179659200Z,Player 16 attacks Player 1 with Fist! (hit)
+2023-05-22T21:19:17.183780100Z,Player 16 attacks Player 1 with Fist! (miss)
+2023-05-22T21:19:17.188593700Z,Player 1 attacks Player 16 with Bow! (hit)
+2023-05-22T21:19:17.192606100Z,Player 1 attacks Player 16 with Bow! (miss)
+2023-05-22T21:19:17.196683800Z,Player 16 dies!
+2023-05-22T21:19:17.201685Z,Encounter finished!
+
+2023-05-22T21:19:17.206273900Z,Players move randomly!
+2023-05-22T21:19:17.210265100Z,Players move randomly!
+2023-05-22T21:19:17.220520500Z,Player 13 finds a(n) Bow
+2023-05-22T21:19:17.225580Z,Players move randomly!
+2023-05-22T21:19:17.229580300Z,Players move randomly!
+2023-05-22T21:19:17.233580900Z,Players move randomly!
+2023-05-22T21:19:17.238178700Z,Encounter started!
+2023-05-22T21:19:17.242191700Z,Player 9 attacks Player 18 with Sword! (hit)
+2023-05-22T21:19:17.247245400Z,Player 9 attacks Player 18 with Sword! (miss)
+2023-05-22T21:19:17.251245300Z,Player 18 attacks Player 9 with Axe! (miss)
+2023-05-22T21:19:17.255882900Z,Player 9 attacks Player 18 with Sword! (hit)
+2023-05-22T21:19:17.259980200Z,Player 9 attacks Player 18 with Sword! (miss)
+2023-05-22T21:19:17.263980Z,Player 18 attacks Player 9 with Axe! (hit)
+2023-05-22T21:19:17.267980800Z,Player 18 attacks Player 9 with Axe! (miss)
+2023-05-22T21:19:17.272059900Z,Player 9 attacks Player 18 with Sword! (miss)
+2023-05-22T21:19:17.276744800Z,Player 18 attacks Player 9 with Axe! (hit)
+2023-05-22T21:19:17.280811Z,Player 18 attacks Player 9 with Axe! (miss)
+2023-05-22T21:19:17.284812Z,Player 9 attacks Player 18 with Sword! (hit)
+2023-05-22T21:19:17.289714100Z,Player 9 attacks Player 18 with Sword! (miss)
+2023-05-22T21:19:17.293713200Z,Player 18 attacks Player 9 with Axe! (miss)
+2023-05-22T21:19:17.297714300Z,Player 9 attacks Player 18 with Sword! (miss)
+2023-05-22T21:19:17.301809700Z,Player 18 attacks Player 9 with Axe! (hit)
+2023-05-22T21:19:17.305810600Z,Player 18 attacks Player 9 with Axe! (miss)
+2023-05-22T21:19:17.309811500Z,Player 9 attacks Player 18 with Sword! (hit)
+2023-05-22T21:19:17.314196100Z,Player 9 attacks Player 18 with Sword! (miss)
+2023-05-22T21:19:17.318230900Z,Player 18 attacks Player 9 with Axe! (hit)
+2023-05-22T21:19:17.322348600Z,Player 18 attacks Player 9 with Axe! (miss)
+2023-05-22T21:19:17.326955300Z,Player 9 dies!
+2023-05-22T21:19:17.330247400Z,Encounter finished!
+
+2023-05-22T21:19:17.335595100Z,Player 6 finds a(n) Axe
+2023-05-22T21:19:17.339607800Z,Players move randomly!
+2023-05-22T21:19:17.344303800Z,Player 12 finds a(n) Sword
+2023-05-22T21:19:17.348299700Z,Player 12 finds a(n) Bow
+2023-05-22T21:19:17.352290400Z,Player 2 finds a(n) Sword
+2023-05-22T21:19:17.357381700Z,Players move randomly!
+2023-05-22T21:19:17.361872300Z,Players move randomly!
+2023-05-22T21:19:17.366013500Z,Encounter started!
+2023-05-22T21:19:17.370006500Z,Player 17 attacks Player 18 with Bow! (miss)
+2023-05-22T21:19:17.375103200Z,Player 18 attacks Player 17 with Axe! (hit)
+2023-05-22T21:19:17.379102200Z,Player 18 attacks Player 17 with Axe! (miss)
+2023-05-22T21:19:17.383561900Z,Player 17 attacks Player 18 with Bow! (miss)
+2023-05-22T21:19:17.387660900Z,Player 18 attacks Player 17 with Axe! (hit)
+2023-05-22T21:19:17.391661500Z,Player 18 attacks Player 17 with Axe! (miss)
+2023-05-22T21:19:17.396490100Z,Player 17 dies!
+2023-05-22T21:19:17.400504400Z,Encounter finished!
+
+2023-05-22T21:19:17.405496100Z,Player 3 finds a(n) Axe
+2023-05-22T21:19:17.409592400Z,Player 12 finds a(n) Bow
+2023-05-22T21:19:17.414705500Z,Players move randomly!
+2023-05-22T21:19:17.418796300Z,Players move randomly!
+2023-05-22T21:19:17.423790800Z,Player 6 finds a(n) Sword
+2023-05-22T21:19:17.428224200Z,Players move randomly!
+2023-05-22T21:19:17.432222800Z,Players move randomly!
+2023-05-22T21:19:17.437238200Z,Players move randomly!
+2023-05-22T21:19:17.441350900Z,Players move randomly!
+2023-05-22T21:19:17.445794500Z,Players move randomly!
+2023-05-22T21:19:17.449794100Z,Players move randomly!
+2023-05-22T21:19:17.454919200Z,Players move randomly!
+2023-05-22T21:19:17.459274Z,Players move randomly!
+2023-05-22T21:19:17.463357700Z,Player 13 finds a(n) Bow
+2023-05-22T21:19:17.468358800Z,Players move randomly!
+2023-05-22T21:19:17.472443500Z,Players move randomly!
+2023-05-22T21:19:17.477444700Z,Encounter started!
+2023-05-22T21:19:17.482448500Z,Player 12 attacks Player 18 with Sword! (hit)
+2023-05-22T21:19:17.486571300Z,Player 12 attacks Player 18 with Sword! (miss)
+2023-05-22T21:19:17.490851500Z,Player 18 dies!
+2023-05-22T21:19:17.494954800Z,Encounter finished!
+
+2023-05-22T21:19:17.498956700Z,Player 13 finds a(n) Bow
+2023-05-22T21:19:17.503566400Z,Players move randomly!
+2023-05-22T21:19:17.507702100Z,Players move randomly!
+2023-05-22T21:19:17.511786400Z,Players move randomly!
+2023-05-22T21:19:17.515851300Z,Encounter started!
+2023-05-22T21:19:17.519861400Z,Player 1 attacks Player 24 with Bow! (hit)
+2023-05-22T21:19:17.524565900Z,Player 1 attacks Player 24 with Bow! (miss)
+2023-05-22T21:19:17.527574300Z,Player 24 attacks Player 1 with Sword! (hit)
+2023-05-22T21:19:17.532575900Z,Player 24 attacks Player 1 with Sword! (miss)
+2023-05-22T21:19:17.536621900Z,Player 1 dies!
+2023-05-22T21:19:17.540635400Z,Encounter finished!
+
+2023-05-22T21:19:17.544636400Z,Players move randomly!
+2023-05-22T21:19:17.548728600Z,Players move randomly!
+2023-05-22T21:19:17.552720Z,Players move randomly!
+2023-05-22T21:19:17.557575500Z,Players move randomly!
+2023-05-22T21:19:17.561568200Z,Players move randomly!
+2023-05-22T21:19:17.566642200Z,Players move randomly!
+2023-05-22T21:19:17.571642300Z,Players move randomly!
+2023-05-22T21:19:17.575642800Z,Players move randomly!
+2023-05-22T21:19:17.580702400Z,Players move randomly!
+2023-05-22T21:19:17.584703300Z,Players move randomly!
+2023-05-22T21:19:17.588761700Z,Players move randomly!
+2023-05-22T21:19:17.593762300Z,Players move randomly!
+2023-05-22T21:19:17.597829700Z,Players move randomly!
+2023-05-22T21:19:17.602843600Z,Players move randomly!
+2023-05-22T21:19:17.606848400Z,Encounter started!
+2023-05-22T21:19:17.611905300Z,Player 14 attacks Player 19 with Sword! (hit)
+2023-05-22T21:19:17.615906500Z,Player 14 attacks Player 19 with Sword! (miss)
+2023-05-22T21:19:17.619976100Z,Player 19 attacks Player 14 with Axe! (hit)
+2023-05-22T21:19:17.624976100Z,Player 19 attacks Player 14 with Axe! (miss)
+2023-05-22T21:19:17.628977500Z,Player 14 attacks Player 19 with Sword! (hit)
+2023-05-22T21:19:17.633042Z,Player 14 attacks Player 19 with Sword! (miss)
+2023-05-22T21:19:17.637042900Z,Player 19 attacks Player 14 with Axe! (hit)
+2023-05-22T21:19:17.642127400Z,Player 19 attacks Player 14 with Axe! (miss)
+2023-05-22T21:19:17.646128600Z,Player 14 attacks Player 19 with Sword! (hit)
+2023-05-22T21:19:17.651199500Z,Player 14 attacks Player 19 with Sword! (miss)
+2023-05-22T21:19:17.655200Z,Player 19 attacks Player 14 with Axe! (miss)
+2023-05-22T21:19:17.659200400Z,Player 14 attacks Player 19 with Sword! (hit)
+2023-05-22T21:19:17.663299200Z,Player 14 attacks Player 19 with Sword! (miss)
+2023-05-22T21:19:17.667300100Z,Player 19 attacks Player 14 with Axe! (hit)
+2023-05-22T21:19:17.672301300Z,Player 19 attacks Player 14 with Axe! (miss)
+2023-05-22T21:19:17.676386800Z,Player 14 dies!
+2023-05-22T21:19:17.680387700Z,Encounter finished!
+
+2023-05-22T21:19:17.684464400Z,Players move randomly!
+2023-05-22T21:19:17.689465400Z,Players move randomly!
+2023-05-22T21:19:17.693468100Z,Players move randomly!
+2023-05-22T21:19:17.697470800Z,Player 6 finds a(n) Sword
+2023-05-22T21:19:17.701472300Z,Players move randomly!
+2023-05-22T21:19:17.706558100Z,Players move randomly!
+2023-05-22T21:19:17.710559Z,Players move randomly!
+2023-05-22T21:19:17.715640600Z,Players move randomly!
+2023-05-22T21:19:17.719637900Z,Players move randomly!
+2023-05-22T21:19:17.723638900Z,Encounter started!
+2023-05-22T21:19:17.727750400Z,Player 6 attacks Player 10 with Axe! (hit)
+2023-05-22T21:19:17.732503700Z,Player 6 attacks Player 10 with Axe! (miss)
+2023-05-22T21:19:17.736514700Z,Player 10 dies!
+2023-05-22T21:19:17.740613700Z,Encounter finished!
+
+2023-05-22T21:19:17.744614400Z,Encounter started!
+2023-05-22T21:19:17.749674800Z,Player 3 attacks Player 19 with Axe! (hit)
+2023-05-22T21:19:17.753675500Z,Player 3 attacks Player 19 with Axe! (miss)
+2023-05-22T21:19:17.758089700Z,Player 19 dies!
+2023-05-22T21:19:17.762177800Z,Encounter finished!
+
+2023-05-22T21:19:17.766172200Z,Players move randomly!
+2023-05-22T21:19:17.771283600Z,Players move randomly!
+2023-05-22T21:19:17.775296500Z,Players move randomly!
+2023-05-22T21:19:17.780368600Z,Players move randomly!
+2023-05-22T21:19:17.784367800Z,Encounter started!
+2023-05-22T21:19:17.789374300Z,Player 3 attacks Player 12 with Axe! (miss)
+2023-05-22T21:19:17.793446600Z,Player 12 attacks Player 3 with Sword! (hit)
+2023-05-22T21:19:17.797447400Z,Player 12 attacks Player 3 with Sword! (miss)
+2023-05-22T21:19:17.802555100Z,Player 3 attacks Player 12 with Axe! (hit)
+2023-05-22T21:19:17.806553500Z,Player 3 attacks Player 12 with Axe! (miss)
+2023-05-22T21:19:17.810554500Z,Player 12 attacks Player 3 with Sword! (hit)
+2023-05-22T21:19:17.815646600Z,Player 12 attacks Player 3 with Sword! (miss)
+2023-05-22T21:19:17.819826400Z,Player 3 attacks Player 12 with Axe! (hit)
+2023-05-22T21:19:17.823960800Z,Player 3 attacks Player 12 with Axe! (miss)
+2023-05-22T21:19:17.828954200Z,Player 12 attacks Player 3 with Sword! (hit)
+2023-05-22T21:19:17.834004Z,Player 12 attacks Player 3 with Sword! (miss)
+2023-05-22T21:19:17.838051600Z,Player 3 attacks Player 12 with Axe! (miss)
+2023-05-22T21:19:17.842214Z,Player 12 attacks Player 3 with Sword! (hit)
+2023-05-22T21:19:17.846293500Z,Player 12 attacks Player 3 with Sword! (miss)
+2023-05-22T21:19:17.850303800Z,Player 3 attacks Player 12 with Axe! (hit)
+2023-05-22T21:19:17.855360800Z,Player 3 attacks Player 12 with Axe! (miss)
+2023-05-22T21:19:17.859361700Z,Player 12 attacks Player 3 with Sword! (hit)
+2023-05-22T21:19:17.863842100Z,Player 12 attacks Player 3 with Sword! (miss)
+2023-05-22T21:19:17.867937800Z,Player 3 dies!
+2023-05-22T21:19:17.872940400Z,Encounter finished!
+
+2023-05-22T21:19:17.877908300Z,Players move randomly!
+2023-05-22T21:19:17.881920900Z,Players move randomly!
+2023-05-22T21:19:17.885922200Z,Players move randomly!
+2023-05-22T21:19:17.890990600Z,Players move randomly!
+2023-05-22T21:19:17.894991800Z,Players move randomly!
+2023-05-22T21:19:17.899562900Z,Players move randomly!
+2023-05-22T21:19:17.903875300Z,Players move randomly!
+2023-05-22T21:19:17.907977400Z,Players move randomly!
+2023-05-22T21:19:17.912075600Z,Players move randomly!
+2023-05-22T21:19:17.916088100Z,Players move randomly!
+2023-05-22T21:19:17.920502800Z,Encounter started!
+2023-05-22T21:19:17.925123900Z,Player 12 attacks Player 24 with Sword! (hit)
+2023-05-22T21:19:17.929235500Z,Player 12 attacks Player 24 with Sword! (miss)
+2023-05-22T21:19:17.933398100Z,Player 24 attacks Player 12 with Sword! (hit)
+2023-05-22T21:19:17.937410500Z,Player 24 attacks Player 12 with Sword! (miss)
+2023-05-22T21:19:17.941884700Z,Player 12 attacks Player 24 with Sword! (miss)
+2023-05-22T21:19:17.945887100Z,Player 24 attacks Player 12 with Sword! (miss)
+2023-05-22T21:19:17.950309800Z,Player 12 attacks Player 24 with Sword! (hit)
+2023-05-22T21:19:17.954417600Z,Player 12 attacks Player 24 with Sword! (miss)
+2023-05-22T21:19:17.958429100Z,Player 24 dies!
+2023-05-22T21:19:17.961556500Z,Encounter finished!
+
+2023-05-22T21:19:17.965628200Z,Players move randomly!
+2023-05-22T21:19:17.970639800Z,Players move randomly!
+2023-05-22T21:19:17.974746600Z,Players move randomly!
+2023-05-22T21:19:17.979501200Z,Players move randomly!
+2023-05-22T21:19:17.983608Z,Players move randomly!
+2023-05-22T21:19:17.988608400Z,Encounter started!
+2023-05-22T21:19:17.992712200Z,Player 6 attacks Player 12 with Axe! (hit)
+2023-05-22T21:19:17.996712200Z,Player 6 attacks Player 12 with Axe! (miss)
+2023-05-22T21:19:18.001713400Z,Player 12 dies!
+2023-05-22T21:19:18.006798500Z,Encounter finished!
+
+2023-05-22T21:19:18.011248300Z,Players move randomly!
+2023-05-22T21:19:18.015365Z,Players move randomly!
+2023-05-22T21:19:18.020365900Z,Players move randomly!
+2023-05-22T21:19:18.024366800Z,Players move randomly!
+2023-05-22T21:19:18.029436800Z,Players move randomly!
+2023-05-22T21:19:18.034038400Z,Encounter started!
+2023-05-22T21:19:18.038509200Z,Player 0 attacks Player 13 with Sword! (hit)
+2023-05-22T21:19:18.043113700Z,Player 0 attacks Player 13 with Sword! (miss)
+2023-05-22T21:19:18.047597900Z,Player 13 attacks Player 0 with Axe! (hit)
+2023-05-22T21:19:18.052181500Z,Player 13 attacks Player 0 with Axe! (miss)
+2023-05-22T21:19:18.056195700Z,Player 0 attacks Player 13 with Sword! (hit)
+2023-05-22T21:19:18.060261500Z,Player 0 attacks Player 13 with Sword! (miss)
+2023-05-22T21:19:18.065263600Z,Player 13 attacks Player 0 with Axe! (miss)
+2023-05-22T21:19:18.070338900Z,Player 0 attacks Player 13 with Sword! (hit)
+2023-05-22T21:19:18.074339900Z,Player 0 attacks Player 13 with Sword! (miss)
+2023-05-22T21:19:18.078406300Z,Player 13 attacks Player 0 with Axe! (miss)
+2023-05-22T21:19:18.083406600Z,Player 0 attacks Player 13 with Sword! (hit)
+2023-05-22T21:19:18.087407600Z,Player 0 attacks Player 13 with Sword! (miss)
+2023-05-22T21:19:18.091472600Z,Player 13 attacks Player 0 with Axe! (miss)
+2023-05-22T21:19:18.096314900Z,Player 0 attacks Player 13 with Sword! (hit)
+2023-05-22T21:19:18.099314400Z,Player 0 attacks Player 13 with Sword! (miss)
+2023-05-22T21:19:18.104399400Z,Player 13 dies!
+2023-05-22T21:19:18.108385400Z,Encounter finished!
+
+2023-05-22T21:19:18.112456900Z,Players move randomly!
+2023-05-22T21:19:18.117090400Z,Players move randomly!
+2023-05-22T21:19:18.121220Z,Players move randomly!
+2023-05-22T21:19:18.125227900Z,Players move randomly!
+2023-05-22T21:19:18.129228500Z,Players move randomly!
+2023-05-22T21:19:18.134257700Z,Players move randomly!
+2023-05-22T21:19:18.137570500Z,Encounter started!
+2023-05-22T21:19:18.142657800Z,Player 0 attacks Player 6 with Sword! (hit)
+2023-05-22T21:19:18.146667200Z,Player 0 attacks Player 6 with Sword! (miss)
+2023-05-22T21:19:18.151550600Z,Player 6 attacks Player 0 with Axe! (hit)
+2023-05-22T21:19:18.155638100Z,Player 6 attacks Player 0 with Axe! (miss)
+2023-05-22T21:19:18.159700900Z,Player 0 attacks Player 6 with Sword! (hit)
+2023-05-22T21:19:18.162977700Z,Player 0 attacks Player 6 with Sword! (miss)
+2023-05-22T21:19:18.167080500Z,Player 6 attacks Player 0 with Axe! (hit)
+2023-05-22T21:19:18.172105600Z,Player 6 attacks Player 0 with Axe! (miss)
+2023-05-22T21:19:18.176239500Z,Player 0 attacks Player 6 with Sword! (hit)
+2023-05-22T21:19:18.180414400Z,Player 0 attacks Player 6 with Sword! (miss)
+2023-05-22T21:19:18.183884500Z,Player 6 attacks Player 0 with Axe! (hit)
+2023-05-22T21:19:18.190172100Z,Player 6 attacks Player 0 with Axe! (miss)
+2023-05-22T21:19:18.195175400Z,Player 0 dies!
+2023-05-22T21:19:18.199285700Z,Encounter finished!
+
+2023-05-22T21:19:18.204286300Z,Players move randomly!
+2023-05-22T21:19:18.208680600Z,Players move randomly!
+2023-05-22T21:19:18.212681600Z,Players move randomly!
+2023-05-22T21:19:18.217749700Z,Players move randomly!
+2023-05-22T21:19:18.222751200Z,Players move randomly!
+2023-05-22T21:19:18.226751400Z,Players move randomly!
+2023-05-22T21:19:18.230814300Z,Players move randomly!
+2023-05-22T21:19:18.235815300Z,Players move randomly!
+2023-05-22T21:19:18.239921500Z,Players move randomly!
+2023-05-22T21:19:18.245035200Z,Players move randomly!
+2023-05-22T21:19:18.249138100Z,Players move randomly!
+2023-05-22T21:19:18.253139Z,Players move randomly!
+2023-05-22T21:19:18.258139100Z,Players move randomly!
+2023-05-22T21:19:18.262256800Z,Encounter started!
+2023-05-22T21:19:18.266259400Z,Player 2 attacks Player 6 with Sword! (hit)
+2023-05-22T21:19:18.271351Z,Player 2 attacks Player 6 with Sword! (miss)
+2023-05-22T21:19:18.275352400Z,Player 6 attacks Player 2 with Axe! (miss)
+2023-05-22T21:19:18.279354500Z,Player 2 attacks Player 6 with Sword! (hit)
+2023-05-22T21:19:18.284441200Z,Player 2 attacks Player 6 with Sword! (miss)
+2023-05-22T21:19:18.288441600Z,Player 6 dies!
+2023-05-22T21:19:18.292499700Z,Encounter finished!
+
+2023-05-22T21:19:18.296500500Z,Players move randomly!
+2023-05-22T21:19:18.301501900Z,Players move randomly!
+2023-05-22T21:19:18.305579300Z,Players move randomly!
+2023-05-22T21:19:18.310196400Z,Encounter started!
+2023-05-22T21:19:18.314286100Z,Player 2 attacks Player 7 with Sword! (hit)
+2023-05-22T21:19:18.318923Z,Player 2 attacks Player 7 with Sword! (miss)
+2023-05-22T21:19:18.322924400Z,Player 7 attacks Player 2 with Axe! (miss)
+2023-05-22T21:19:18.327047500Z,Player 2 attacks Player 7 with Sword! (hit)
+2023-05-22T21:19:18.331048400Z,Player 2 attacks Player 7 with Sword! (miss)
+2023-05-22T21:19:18.336119500Z,Player 7 attacks Player 2 with Axe! (miss)
+2023-05-22T21:19:18.340121600Z,Player 2 attacks Player 7 with Sword! (hit)
+2023-05-22T21:19:18.344112900Z,Player 2 attacks Player 7 with Sword! (miss)
+2023-05-22T21:19:18.348238800Z,Player 7 attacks Player 2 with Axe! (hit)
+2023-05-22T21:19:18.352505600Z,Player 7 attacks Player 2 with Axe! (miss)
+2023-05-22T21:19:18.356867800Z,Player 2 attacks Player 7 with Sword! (hit)
+2023-05-22T21:19:18.361144600Z,Player 2 attacks Player 7 with Sword! (miss)
+2023-05-22T21:19:18.365157700Z,Player 7 attacks Player 2 with Axe! (miss)
+2023-05-22T21:19:18.369250200Z,Player 2 attacks Player 7 with Sword! (hit)
+2023-05-22T21:19:18.373685100Z,Player 2 attacks Player 7 with Sword! (miss)
+2023-05-22T21:19:18.377777500Z,Player 7 dies!
+2023-05-22T21:19:18.381785700Z,Encounter finished!
+
+2023-05-22T21:19:18.385786300Z,Player 2 wins!
+2023-05-22T21:20:11.219792200Z,Creating map...
+2023-05-22T21:20:11.227793300Z,Spawning items...
+2023-05-22T21:20:11.234865200Z,Creating map...
+2023-05-22T21:20:11.239866700Z,Spawning items...
+2023-05-22T21:20:11.245950Z,Creating map...
+2023-05-22T21:20:11.250950300Z,Spawning items...
+2023-05-22T21:20:11.468617300Z,Creating map...
+2023-05-22T21:20:11.473617Z,Spawning items...
+2023-05-22T21:20:11.479696Z,Starting game... (game id: 7)
+2023-05-22T21:20:11.484696900Z,Players spawned randomly!
+2023-05-22T21:20:11.489763400Z,Players move randomly!
+2023-05-22T21:20:11.494764800Z,Encounter started!
+2023-05-22T21:20:11.504841700Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.509932700Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.514932500Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.520002200Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.525003500Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.530075700Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.535077800Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.539077600Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.544151600Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.549153500Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.554221500Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.558222500Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.563301100Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.568302Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.573374100Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.578374300Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.583460400Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.588462200Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.593537100Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.598538500Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.603584800Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.607618600Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.612621300Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.617703100Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.622704200Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.627797400Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.632798900Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.636869800Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.641871200Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.646933500Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.651934700Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.656935600Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.661936700Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.666937800Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.671009800Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.676010Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.681077100Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.686078600Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.691146100Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.696147700Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.700216500Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.705217800Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.710293Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.714292200Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.719293900Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.724393Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.729394200Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.733468400Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.738469Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.743558300Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.747672900Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.751676800Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.755759200Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.760781900Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.764871900Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.769863100Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.774511400Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.778520700Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.783522Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.788615Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.792617Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.797213400Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.802042700Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.806055500Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.811157700Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.815159500Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.820219700Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.824220500Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.829303200Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.833301400Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.837884100Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.841949700Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.846952500Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.851204200Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.855217100Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.859638100Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.863777200Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.867789900Z,Player 9 attacks Player 30 with Fist! (hit)
+2023-05-22T21:20:11.871857600Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.875858Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.880990Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.885079400Z,Player 9 attacks Player 30 with Fist! (miss)
+2023-05-22T21:20:11.889081400Z,Player 30 attacks Player 9 with Fist! (hit)
+2023-05-22T21:20:11.893159800Z,Player 30 attacks Player 9 with Fist! (miss)
+2023-05-22T21:20:11.898160700Z,Player 9 dies!
+2023-05-22T21:20:11.903161900Z,Encounter finished!
+
+2023-05-22T21:20:11.907162700Z,Encounter started!
+2023-05-22T21:20:11.912163900Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:11.916874800Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:11.920888400Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:11.925961100Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:11.930633800Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:11.934724200Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:11.945227500Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:11.950234Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:11.954234900Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:11.959301700Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:11.963302500Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:11.968358Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:11.973358200Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:11.978070400Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:11.982068900Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:11.987072Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:11.992173Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:11.997174Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.002295Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.007295800Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.012372500Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.017372900Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.022458500Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.026458900Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.031528400Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.035529300Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.039530Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.044613800Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.048931500Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.053010400Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.057011400Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.061002700Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.065063700Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.069064600Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.073802500Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.077812200Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.081813Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.086899900Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.090913600Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.094971500Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.099706600Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.103718800Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.107793Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.112793900Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.116873300Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.121141200Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.125133200Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.130984200Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.135223400Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.139340Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.144238600Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.148645500Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.152647600Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.157639500Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.161938800Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.166942800Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.171187200Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.176125200Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.180209400Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.184209300Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.189210300Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.193288300Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.198289500Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.202757600Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.207757800Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.212198Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.216210900Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.221202200Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.225300600Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.229956Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.234050700Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.238916Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.242916600Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.246992500Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.251993700Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.257036Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.261449500Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.265565100Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.270169100Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.274376600Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.278522100Z,Player 46 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:12.282522900Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.287597900Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.291599300Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.295600600Z,Player 46 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:12.299703900Z,Player 39 attacks Player 46 with Fist! (hit)
+2023-05-22T21:20:12.304704500Z,Player 39 attacks Player 46 with Fist! (miss)
+2023-05-22T21:20:12.308780800Z,Player 46 dies!
+2023-05-22T21:20:12.313782300Z,Encounter finished!
+
+2023-05-22T21:20:12.320854800Z,Player 36 finds a(n) Sword
+2023-05-22T21:20:12.325856500Z,Player 5 finds a(n) Sword
+2023-05-22T21:20:12.330926900Z,Player 8 finds a(n) Sword
+2023-05-22T21:20:12.335928Z,Player 34 finds a(n) Bow
+2023-05-22T21:20:12.340998700Z,Player 18 finds a(n) Bow
+2023-05-22T21:20:12.346000500Z,Players move randomly!
+2023-05-22T21:20:12.351074700Z,Encounter started!
+2023-05-22T21:20:12.355076200Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.360077100Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.364144900Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.369146Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.374205900Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.378206200Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.382278700Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.387278900Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.391280500Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.395367700Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.400368400Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.405446200Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.409445500Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.414646900Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.418645700Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.423646900Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.428499600Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.432513700Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.436605Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.441605300Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.445606200Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.450684900Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.454684Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.459791700Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.463792900Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.468894900Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.473062100Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.477062Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.481148300Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.485702700Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.490016200Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.494228100Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.498241300Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.502359900Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.507066100Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.511211100Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.515209300Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.520210Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.524311500Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.528628200Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.534695400Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.541695300Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.546774100Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.550775100Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.555856Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.560857500Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.565551Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.569563900Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.574619400Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.578619300Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.583620500Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.587713700Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.592715800Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.597787300Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.601788200Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.606883700Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.610885100Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.615886400Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.620956Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.624958100Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.630024100Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.635024500Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.639595900Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.644597200Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.648661100Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.653661400Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.657662100Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.662758900Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.667760Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.671950300Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.675963100Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.680732400Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.684848100Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.688848700Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.693773500Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.698193700Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.702519200Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.706596900Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.710648200Z,Player 19 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:12.715060700Z,Player 19 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:12.719062900Z,Player 49 attacks Player 19 with Fist! (hit)
+2023-05-22T21:20:12.723053400Z,Player 49 attacks Player 19 with Fist! (miss)
+2023-05-22T21:20:12.728008500Z,Player 19 dies!
+2023-05-22T21:20:12.732299Z,Encounter finished!
+
+2023-05-22T21:20:12.736399200Z,Encounter started!
+2023-05-22T21:20:12.740399700Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.744391100Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.748448400Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.753717400Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.757820300Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.762272700Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.766369200Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.771209500Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.775221900Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.780454200Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.785180Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.789827200Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.794131300Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.798132600Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.803242200Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.807243200Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.812042Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.817042500Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.822121Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.827122200Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.832211200Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.836212100Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.841282600Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.845282500Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.850394700Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.854461800Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.859463200Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.863525100Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.868448Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.879598400Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.884656600Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.888657400Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.893520600Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.897594300Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.901604Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.905686900Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.911151800Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.915166500Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.919276800Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.923834600Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.928267600Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.932268700Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.936268900Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.941532200Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.945892Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.950298800Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.955176100Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.959273300Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.963282700Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.967774100Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.972480600Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.976492700Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.980621300Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:12.984612800Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:12.989428Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:12.993517400Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:12.998518400Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:13.003603500Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.008047Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.012143100Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.017142500Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:13.021525300Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.026083700Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.030087900Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.034872300Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:13.038873400Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.043948900Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.047947Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.052948800Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:13.058041800Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.063043200Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:13.067107400Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.071763300Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:13.076183600Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.080183700Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:13.085152300Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.089274700Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:13.094278600Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.098591Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:13.102593300Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.107691800Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.111688Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:13.116209700Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.120357Z,Player 35 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:13.124348200Z,Player 35 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:13.128905600Z,Player 13 attacks Player 35 with Fist! (hit)
+2023-05-22T21:20:13.133451800Z,Player 13 attacks Player 35 with Fist! (miss)
+2023-05-22T21:20:13.137027800Z,Player 35 dies!
+2023-05-22T21:20:13.141975400Z,Encounter finished!
+
+2023-05-22T21:20:13.145989Z,Encounter started!
+2023-05-22T21:20:13.149989900Z,Player 8 attacks Player 26 with Sword! (miss)
+2023-05-22T21:20:13.154103Z,Player 26 attacks Player 8 with Fist! (hit)
+2023-05-22T21:20:13.158858200Z,Player 26 attacks Player 8 with Fist! (miss)
+2023-05-22T21:20:13.163223400Z,Player 8 attacks Player 26 with Sword! (hit)
+2023-05-22T21:20:13.166233300Z,Player 8 attacks Player 26 with Sword! (miss)
+2023-05-22T21:20:13.171317900Z,Player 26 attacks Player 8 with Fist! (hit)
+2023-05-22T21:20:13.176546700Z,Player 26 attacks Player 8 with Fist! (miss)
+2023-05-22T21:20:13.180559300Z,Player 8 attacks Player 26 with Sword! (hit)
+2023-05-22T21:20:13.185118500Z,Player 8 attacks Player 26 with Sword! (miss)
+2023-05-22T21:20:13.189120800Z,Player 26 attacks Player 8 with Fist! (miss)
+2023-05-22T21:20:13.193982500Z,Player 8 attacks Player 26 with Sword! (hit)
+2023-05-22T21:20:13.198079100Z,Player 8 attacks Player 26 with Sword! (miss)
+2023-05-22T21:20:13.202083200Z,Player 26 attacks Player 8 with Fist! (hit)
+2023-05-22T21:20:13.207203100Z,Player 26 attacks Player 8 with Fist! (miss)
+2023-05-22T21:20:13.212203700Z,Player 8 attacks Player 26 with Sword! (hit)
+2023-05-22T21:20:13.216267400Z,Player 8 attacks Player 26 with Sword! (miss)
+2023-05-22T21:20:13.221267700Z,Player 26 attacks Player 8 with Fist! (miss)
+2023-05-22T21:20:13.225351400Z,Player 8 attacks Player 26 with Sword! (miss)
+2023-05-22T21:20:13.230044Z,Player 26 attacks Player 8 with Fist! (hit)
+2023-05-22T21:20:13.234044800Z,Player 26 attacks Player 8 with Fist! (miss)
+2023-05-22T21:20:13.239121300Z,Player 8 attacks Player 26 with Sword! (hit)
+2023-05-22T21:20:13.243559Z,Player 8 attacks Player 26 with Sword! (miss)
+2023-05-22T21:20:13.247884700Z,Player 26 dies!
+2023-05-22T21:20:13.252893900Z,Encounter finished!
+
+2023-05-22T21:20:13.256958700Z,Encounter started!
+2023-05-22T21:20:13.260968400Z,Player 25 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:13.265959800Z,Player 39 attacks Player 25 with Fist! (hit)
+2023-05-22T21:20:13.270025100Z,Player 39 attacks Player 25 with Fist! (miss)
+2023-05-22T21:20:13.274666700Z,Player 25 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:13.278777200Z,Player 39 attacks Player 25 with Fist! (hit)
+2023-05-22T21:20:13.282776700Z,Player 39 attacks Player 25 with Fist! (miss)
+2023-05-22T21:20:13.287676400Z,Player 25 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:13.291757600Z,Player 39 attacks Player 25 with Fist! (hit)
+2023-05-22T21:20:13.295748900Z,Player 39 attacks Player 25 with Fist! (miss)
+2023-05-22T21:20:13.300753300Z,Player 25 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:13.304755700Z,Player 25 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:13.309756200Z,Player 39 attacks Player 25 with Fist! (hit)
+2023-05-22T21:20:13.314824400Z,Player 39 attacks Player 25 with Fist! (miss)
+2023-05-22T21:20:13.318825500Z,Player 25 attacks Player 39 with Fist! (hit)
+2023-05-22T21:20:13.323526100Z,Player 25 attacks Player 39 with Fist! (miss)
+2023-05-22T21:20:13.327529600Z,Player 39 dies!
+2023-05-22T21:20:13.331530400Z,Encounter finished!
+
+2023-05-22T21:20:13.335596500Z,Encounter started!
+2023-05-22T21:20:13.340619Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.344696900Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.348687400Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.353193600Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.357206500Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.361668400Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.365177100Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.370192300Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.374281Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.378280800Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.383110100Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.387213900Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.391215100Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.395282500Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.399281800Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.404055400Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.408122Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.413132700Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.418192200Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.422192600Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.427257600Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.431257600Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.436258800Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.441351300Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.445351800Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.450166200Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.454170200Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.458170400Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.463281900Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.467282600Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.472357700Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.477358900Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.481425300Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.485425900Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.490426400Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.495494100Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.499494800Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.504554Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.508554800Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.513484Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.517489600Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.522363Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.526470100Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.531471100Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.535550700Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.540550700Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.544645100Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.548924500Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.553926Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.557993500Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.562994Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.567226500Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.571553700Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.575574300Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.579935800Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.584418800Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.588495100Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.592504500Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.596495800Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.601679400Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.605901900Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.610238Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.614665500Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.619413300Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.623357600Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.627748200Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.632839300Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.637461200Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.641987300Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.646988500Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.652084900Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.656085Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.661088200Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.665159900Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.670161Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.674161500Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.679163200Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.683693400Z,Player 24 attacks Player 2 with Fist! (hit)
+2023-05-22T21:20:13.687706100Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.692697200Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.697089500Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.702083200Z,Player 24 attacks Player 2 with Fist! (miss)
+2023-05-22T21:20:13.706145100Z,Player 2 attacks Player 24 with Fist! (hit)
+2023-05-22T21:20:13.711146100Z,Player 2 attacks Player 24 with Fist! (miss)
+2023-05-22T21:20:13.715223200Z,Player 24 dies!
+2023-05-22T21:20:13.720223300Z,Encounter finished!
+
+2023-05-22T21:20:13.724751600Z,Player 21 finds a(n) Sword
+2023-05-22T21:20:13.728858800Z,Players move randomly!
+2023-05-22T21:20:13.733477Z,Encounter started!
+2023-05-22T21:20:13.738564600Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.743171700Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.747184500Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.751276500Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.756871300Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.760376100Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.765173900Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.769194700Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.773787Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.778111200Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.782228800Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.786443100Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.790775300Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.794853Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.799223800Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.803634900Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.807896100Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.812345500Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.816355Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.820747900Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.825275300Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.829267200Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.834365600Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.839357600Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.843661600Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.847671Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.852672300Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.857355200Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.861360100Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.866441600Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.870442700Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.876136900Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.880136200Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.884768800Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.888870700Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.893145600Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.898244Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.902251600Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.907308500Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.911308500Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.916315Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.920390700Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.925392100Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.930030Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.934415200Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.938419800Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.943488800Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.947782300Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.951890600Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.957121100Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.961214900Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.965841600Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.970135Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.973677900Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.978974400Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:13.983431200Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:13.987438900Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:13.991429600Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:13.995526800Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:14.000528Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:14.004530600Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:14.008877900Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:14.013166300Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:14.017239100Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:14.021240200Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:14.026422100Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:14.030434600Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:14.035054100Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:14.039296400Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:14.043306Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:14.047641300Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:14.052643800Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:14.056706400Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:14.060707Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:14.066708700Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:14.070781Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:14.075782300Z,Player 42 attacks Player 17 with Fist! (hit)
+2023-05-22T21:20:14.080869100Z,Player 42 attacks Player 17 with Fist! (miss)
+2023-05-22T21:20:14.085870200Z,Player 17 attacks Player 42 with Fist! (hit)
+2023-05-22T21:20:14.089937100Z,Player 17 attacks Player 42 with Fist! (miss)
+2023-05-22T21:20:14.095191600Z,Player 42 dies!
+2023-05-22T21:20:14.099205800Z,Encounter finished!
+
+2023-05-22T21:20:14.104268800Z,Encounter started!
+2023-05-22T21:20:14.108734100Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.112833100Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.117877200Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.121970300Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.126971400Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.131678600Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.135796Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.140787500Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.144886600Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.150030Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.153631600Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.158630900Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.163379600Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.167483900Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.171484700Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.177053500Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.181563500Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.185143300Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.189143300Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.193144200Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.198223400Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.202231700Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.207062300Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.211077400Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.215505900Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.219892400Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.224186800Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.228544200Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.232555300Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.236844900Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.240974200Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.244965900Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.248966700Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.254204200Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.258218200Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.262289400Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.267290300Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.272350600Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.276351900Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.281353400Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.285719Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.289731400Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.294801400Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.298801100Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.303871900Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.308873400Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.313923600Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.318083100Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.322091Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.327196200Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.332197500Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.336510400Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.340796400Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.345902700Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.349891500Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.354178500Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.358284900Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.363285900Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.367574400Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.371578500Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.376578600Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.380669300Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.385626100Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.390322800Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.394335300Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.398998800Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.403008500Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.407009300Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.411606300Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.415620Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.419620600Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.423682900Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.427683100Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.433046Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.437033100Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.442133200Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.446295800Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.450577700Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.454660600Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.458661600Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.463500600Z,Player 29 attacks Player 6 with Fist! (hit)
+2023-05-22T21:20:14.467559600Z,Player 29 attacks Player 6 with Fist! (miss)
+2023-05-22T21:20:14.472169500Z,Player 6 attacks Player 29 with Fist! (hit)
+2023-05-22T21:20:14.477553900Z,Player 6 attacks Player 29 with Fist! (miss)
+2023-05-22T21:20:14.481810200Z,Player 29 dies!
+2023-05-22T21:20:14.486910700Z,Encounter finished!
+
+2023-05-22T21:20:14.492178500Z,Player 28 finds a(n) Sword
+2023-05-22T21:20:14.496682200Z,Player 2 finds a(n) Bow
+2023-05-22T21:20:14.501980800Z,Player 41 finds a(n) Bow
+2023-05-22T21:20:14.506456700Z,Players move randomly!
+2023-05-22T21:20:14.511459500Z,Encounter started!
+2023-05-22T21:20:14.516561Z,Player 32 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:14.520876900Z,Player 32 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:14.525439100Z,Player 49 attacks Player 32 with Fist! (hit)
+2023-05-22T21:20:14.529520600Z,Player 49 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:14.534519400Z,Player 32 attacks Player 49 with Fist! (hit)
+2023-05-22T21:20:14.538614300Z,Player 32 attacks Player 49 with Fist! (miss)
+2023-05-22T21:20:14.542997700Z,Player 49 dies!
+2023-05-22T21:20:14.548077300Z,Encounter finished!
+
+2023-05-22T21:20:14.552231600Z,Encounter started!
+2023-05-22T21:20:14.556242700Z,Player 1 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:14.561318500Z,Player 1 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:14.565890800Z,Player 13 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:14.570010Z,Player 1 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:14.575007700Z,Player 1 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:14.579008400Z,Player 13 attacks Player 1 with Fist! (hit)
+2023-05-22T21:20:14.584480800Z,Player 13 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:14.588493700Z,Player 1 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:14.593574600Z,Player 1 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:14.598576Z,Player 13 attacks Player 1 with Fist! (hit)
+2023-05-22T21:20:14.603290100Z,Player 13 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:14.608291200Z,Player 1 attacks Player 13 with Fist! (hit)
+2023-05-22T21:20:14.612376Z,Player 1 attacks Player 13 with Fist! (miss)
+2023-05-22T21:20:14.616973500Z,Player 13 dies!
+2023-05-22T21:20:14.621009600Z,Encounter finished!
+
+2023-05-22T21:20:14.625071300Z,Players move randomly!
+2023-05-22T21:20:14.629837300Z,Encounter started!
+2023-05-22T21:20:14.634492700Z,Player 5 attacks Player 22 with Sword! (miss)
+2023-05-22T21:20:14.638495200Z,Player 22 attacks Player 5 with Fist! (hit)
+2023-05-22T21:20:14.643892Z,Player 22 attacks Player 5 with Fist! (miss)
+2023-05-22T21:20:14.648048300Z,Player 5 attacks Player 22 with Sword! (hit)
+2023-05-22T21:20:14.652060700Z,Player 5 attacks Player 22 with Sword! (miss)
+2023-05-22T21:20:14.656100300Z,Player 22 attacks Player 5 with Fist! (hit)
+2023-05-22T21:20:14.660066700Z,Player 22 attacks Player 5 with Fist! (miss)
+2023-05-22T21:20:14.665071100Z,Player 5 attacks Player 22 with Sword! (hit)
+2023-05-22T21:20:14.669138100Z,Player 5 attacks Player 22 with Sword! (miss)
+2023-05-22T21:20:14.673138800Z,Player 22 attacks Player 5 with Fist! (hit)
+2023-05-22T21:20:14.677339100Z,Player 22 attacks Player 5 with Fist! (miss)
+2023-05-22T21:20:14.681340900Z,Player 5 attacks Player 22 with Sword! (hit)
+2023-05-22T21:20:14.685341700Z,Player 5 attacks Player 22 with Sword! (miss)
+2023-05-22T21:20:14.690414500Z,Player 22 attacks Player 5 with Fist! (miss)
+2023-05-22T21:20:14.695415600Z,Player 5 attacks Player 22 with Sword! (hit)
+2023-05-22T21:20:14.700487Z,Player 5 attacks Player 22 with Sword! (miss)
+2023-05-22T21:20:14.704487500Z,Player 22 attacks Player 5 with Fist! (hit)
+2023-05-22T21:20:14.708579800Z,Player 22 attacks Player 5 with Fist! (miss)
+2023-05-22T21:20:14.713653300Z,Player 5 attacks Player 22 with Sword! (miss)
+2023-05-22T21:20:14.718754400Z,Player 22 attacks Player 5 with Fist! (hit)
+2023-05-22T21:20:14.722763700Z,Player 22 attacks Player 5 with Fist! (miss)
+2023-05-22T21:20:14.727764500Z,Player 5 attacks Player 22 with Sword! (hit)
+2023-05-22T21:20:14.731756800Z,Player 5 attacks Player 22 with Sword! (miss)
+2023-05-22T21:20:14.737095100Z,Player 22 dies!
+2023-05-22T21:20:14.741917Z,Encounter finished!
+
+2023-05-22T21:20:14.746202300Z,Encounter started!
+2023-05-22T21:20:14.751348900Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.755347300Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.760349Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.764432100Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.769706100Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.773774100Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.778417800Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.783521Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.787523200Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.791524100Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.796532800Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.800545500Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.804684500Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.809514500Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.813828800Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.817921600Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.821922200Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.827145900Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.831495800Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.834865400Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.840013900Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.844164900Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.848293800Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.852294800Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.856295800Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.860399600Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.864400600Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.868497500Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.872498300Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.877499Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.881601800Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.885599400Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.889967400Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.894904Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.898915Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.904007500Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.908008700Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.913344700Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.917665300Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.921761500Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.926887500Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.930177100Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.935272700Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.940671100Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.944803500Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.949795600Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.953871600Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.958871500Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.963002100Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.968109400Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.972100500Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.976181200Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.981182800Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:14.985280300Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:14.990214Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:14.994227Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:14.999327800Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:15.003329400Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.008061200Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.013054300Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:15.017357Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:15.021356800Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.026367300Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.031003500Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:15.035278800Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:15.039705500Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.043713400Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:15.047705600Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:15.052736400Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.057151500Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.061522200Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:15.066525Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.071597800Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.076127700Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:15.080140200Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:15.084227700Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.088228400Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.093285100Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:15.097655700Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:15.100959600Z,Player 14 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.106034900Z,Player 14 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.111035400Z,Player 4 attacks Player 14 with Fist! (hit)
+2023-05-22T21:20:15.115425900Z,Player 4 attacks Player 14 with Fist! (miss)
+2023-05-22T21:20:15.120427400Z,Player 14 dies!
+2023-05-22T21:20:15.125516700Z,Encounter finished!
+
+2023-05-22T21:20:15.129517500Z,Players move randomly!
+2023-05-22T21:20:15.134593700Z,Encounter started!
+2023-05-22T21:20:15.139592500Z,Player 2 attacks Player 28 with Bow! (miss)
+2023-05-22T21:20:15.144593600Z,Player 28 attacks Player 2 with Sword! (hit)
+2023-05-22T21:20:15.148694700Z,Player 28 attacks Player 2 with Sword! (miss)
+2023-05-22T21:20:15.153700500Z,Player 2 dies!
+2023-05-22T21:20:15.157978200Z,Encounter finished!
+
+2023-05-22T21:20:15.162908800Z,Encounter started!
+2023-05-22T21:20:15.167000400Z,Player 18 attacks Player 44 with Bow! (hit)
+2023-05-22T21:20:15.171685Z,Player 18 attacks Player 44 with Bow! (miss)
+2023-05-22T21:20:15.175696300Z,Player 44 attacks Player 18 with Fist! (miss)
+2023-05-22T21:20:15.181504100Z,Player 18 attacks Player 44 with Bow! (hit)
+2023-05-22T21:20:15.185507200Z,Player 18 attacks Player 44 with Bow! (miss)
+2023-05-22T21:20:15.190871700Z,Player 44 attacks Player 18 with Fist! (hit)
+2023-05-22T21:20:15.194884100Z,Player 44 attacks Player 18 with Fist! (miss)
+2023-05-22T21:20:15.199936500Z,Player 18 attacks Player 44 with Bow! (hit)
+2023-05-22T21:20:15.203937900Z,Player 18 attacks Player 44 with Bow! (miss)
+2023-05-22T21:20:15.207938900Z,Player 44 dies!
+2023-05-22T21:20:15.213005900Z,Encounter finished!
+
+2023-05-22T21:20:15.218006500Z,Player 0 finds a(n) Bow
+2023-05-22T21:20:15.222210700Z,Player 1 finds a(n) Sword
+2023-05-22T21:20:15.227216800Z,Player 6 finds a(n) Bow
+2023-05-22T21:20:15.231343800Z,Players move randomly!
+2023-05-22T21:20:15.236002600Z,Player 0 finds a(n) Sword
+2023-05-22T21:20:15.240004200Z,Player 38 finds a(n) Bow
+2023-05-22T21:20:15.245447700Z,Player 25 finds a(n) Sword
+2023-05-22T21:20:15.249461300Z,Players move randomly!
+2023-05-22T21:20:15.253569800Z,Player 12 finds a(n) Bow
+2023-05-22T21:20:15.258601300Z,Players move randomly!
+2023-05-22T21:20:15.262737400Z,Encounter started!
+2023-05-22T21:20:15.266744900Z,Player 8 attacks Player 28 with Sword! (hit)
+2023-05-22T21:20:15.271746200Z,Player 8 attacks Player 28 with Sword! (miss)
+2023-05-22T21:20:15.276018100Z,Player 28 attacks Player 8 with Sword! (hit)
+2023-05-22T21:20:15.280031Z,Player 28 attacks Player 8 with Sword! (miss)
+2023-05-22T21:20:15.284142500Z,Player 8 attacks Player 28 with Sword! (hit)
+2023-05-22T21:20:15.288837900Z,Player 8 attacks Player 28 with Sword! (miss)
+2023-05-22T21:20:15.292850200Z,Player 28 attacks Player 8 with Sword! (miss)
+2023-05-22T21:20:15.296921100Z,Player 8 attacks Player 28 with Sword! (miss)
+2023-05-22T21:20:15.301430300Z,Player 28 attacks Player 8 with Sword! (hit)
+2023-05-22T21:20:15.305441900Z,Player 28 attacks Player 8 with Sword! (miss)
+2023-05-22T21:20:15.309899300Z,Player 8 attacks Player 28 with Sword! (hit)
+2023-05-22T21:20:15.314005900Z,Player 8 attacks Player 28 with Sword! (miss)
+2023-05-22T21:20:15.318365900Z,Player 28 attacks Player 8 with Sword! (hit)
+2023-05-22T21:20:15.322366700Z,Player 28 attacks Player 8 with Sword! (miss)
+2023-05-22T21:20:15.327480300Z,Player 8 attacks Player 28 with Sword! (hit)
+2023-05-22T21:20:15.332734800Z,Player 8 attacks Player 28 with Sword! (miss)
+2023-05-22T21:20:15.336819200Z,Player 28 attacks Player 8 with Sword! (hit)
+2023-05-22T21:20:15.341827500Z,Player 28 attacks Player 8 with Sword! (miss)
+2023-05-22T21:20:15.345819800Z,Player 8 dies!
+2023-05-22T21:20:15.350908300Z,Encounter finished!
+
+2023-05-22T21:20:15.355478100Z,Player 1 finds a(n) Sword
+2023-05-22T21:20:15.359565100Z,Players move randomly!
+2023-05-22T21:20:15.364557300Z,Player 6 finds a(n) Axe
+2023-05-22T21:20:15.368671100Z,Player 11 finds a(n) Bow
+2023-05-22T21:20:15.373669800Z,Players move randomly!
+2023-05-22T21:20:15.378547600Z,Encounter started!
+2023-05-22T21:20:15.382636600Z,Player 1 attacks Player 27 with Sword! (miss)
+2023-05-22T21:20:15.387637600Z,Player 27 attacks Player 1 with Fist! (hit)
+2023-05-22T21:20:15.392164Z,Player 27 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:15.397166500Z,Player 1 attacks Player 27 with Sword! (hit)
+2023-05-22T21:20:15.401256400Z,Player 1 attacks Player 27 with Sword! (miss)
+2023-05-22T21:20:15.406257900Z,Player 27 attacks Player 1 with Fist! (hit)
+2023-05-22T21:20:15.410458500Z,Player 27 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:15.414540Z,Player 1 attacks Player 27 with Sword! (hit)
+2023-05-22T21:20:15.419541Z,Player 1 attacks Player 27 with Sword! (miss)
+2023-05-22T21:20:15.424285Z,Player 27 attacks Player 1 with Fist! (hit)
+2023-05-22T21:20:15.429248300Z,Player 27 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:15.433259500Z,Player 1 attacks Player 27 with Sword! (hit)
+2023-05-22T21:20:15.438339300Z,Player 1 attacks Player 27 with Sword! (miss)
+2023-05-22T21:20:15.443402900Z,Player 27 attacks Player 1 with Fist! (hit)
+2023-05-22T21:20:15.447583300Z,Player 27 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:15.451594400Z,Player 1 attacks Player 27 with Sword! (miss)
+2023-05-22T21:20:15.455681400Z,Player 27 attacks Player 1 with Fist! (hit)
+2023-05-22T21:20:15.460672900Z,Player 27 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:15.464749300Z,Player 1 attacks Player 27 with Sword! (hit)
+2023-05-22T21:20:15.469924800Z,Player 1 attacks Player 27 with Sword! (miss)
+2023-05-22T21:20:15.473937800Z,Player 27 attacks Player 1 with Fist! (hit)
+2023-05-22T21:20:15.478534100Z,Player 27 attacks Player 1 with Fist! (miss)
+2023-05-22T21:20:15.482536200Z,Player 1 attacks Player 27 with Sword! (hit)
+2023-05-22T21:20:15.487447400Z,Player 1 attacks Player 27 with Sword! (miss)
+2023-05-22T21:20:15.491460100Z,Player 27 dies!
+2023-05-22T21:20:15.495460900Z,Encounter finished!
+
+2023-05-22T21:20:15.499558300Z,Player 0 finds a(n) Bow
+2023-05-22T21:20:15.505093500Z,Players move randomly!
+2023-05-22T21:20:15.509511400Z,Player 16 finds a(n) Bow
+2023-05-22T21:20:15.513513400Z,Player 37 finds a(n) Axe
+2023-05-22T21:20:15.518505300Z,Players move randomly!
+2023-05-22T21:20:15.522631700Z,Encounter started!
+2023-05-22T21:20:15.526632700Z,Player 4 attacks Player 32 with Fist! (hit)
+2023-05-22T21:20:15.531527400Z,Player 4 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:15.535540900Z,Player 32 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.540156200Z,Player 4 attacks Player 32 with Fist! (hit)
+2023-05-22T21:20:15.544193200Z,Player 4 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:15.549195600Z,Player 32 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.553296800Z,Player 4 attacks Player 32 with Fist! (hit)
+2023-05-22T21:20:15.558289800Z,Player 4 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:15.562717300Z,Player 32 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.567719900Z,Player 32 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.571711900Z,Player 4 attacks Player 32 with Fist! (hit)
+2023-05-22T21:20:15.576790900Z,Player 4 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:15.580791700Z,Player 32 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.584867400Z,Player 4 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:15.590393300Z,Player 32 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.594837300Z,Player 32 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.599664300Z,Player 4 attacks Player 32 with Fist! (hit)
+2023-05-22T21:20:15.603676400Z,Player 4 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:15.608773900Z,Player 32 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.613802900Z,Player 32 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.617842700Z,Player 4 attacks Player 32 with Fist! (hit)
+2023-05-22T21:20:15.623844700Z,Player 4 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:15.627848100Z,Player 32 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.637096700Z,Player 4 attacks Player 32 with Fist! (hit)
+2023-05-22T21:20:15.645098500Z,Player 4 attacks Player 32 with Fist! (miss)
+2023-05-22T21:20:15.651189200Z,Player 32 attacks Player 4 with Fist! (hit)
+2023-05-22T21:20:15.655189900Z,Player 32 attacks Player 4 with Fist! (miss)
+2023-05-22T21:20:15.660264100Z,Player 4 dies!
+2023-05-22T21:20:15.664267500Z,Encounter finished!
+
+2023-05-22T21:20:15.669391Z,Encounter started!
+2023-05-22T21:20:15.674057500Z,Player 28 attacks Player 30 with Sword! (hit)
+2023-05-22T21:20:15.679068700Z,Player 28 attacks Player 30 with Sword! (miss)
+2023-05-22T21:20:15.683150400Z,Player 30 dies!
+2023-05-22T21:20:15.687594600Z,Encounter finished!
+
+2023-05-22T21:20:15.692537600Z,Encounter started!
+2023-05-22T21:20:15.697504500Z,Player 40 attacks Player 41 with Fist! (hit)
+2023-05-22T21:20:15.701869800Z,Player 40 attacks Player 41 with Fist! (miss)
+2023-05-22T21:20:15.705872100Z,Player 41 attacks Player 40 with Bow! (miss)
+2023-05-22T21:20:15.710921800Z,Player 40 attacks Player 41 with Fist! (miss)
+2023-05-22T21:20:15.715027500Z,Player 41 attacks Player 40 with Bow! (hit)
+2023-05-22T21:20:15.719039900Z,Player 41 attacks Player 40 with Bow! (miss)
+2023-05-22T21:20:15.723146700Z,Player 40 attacks Player 41 with Fist! (hit)
+2023-05-22T21:20:15.727147700Z,Player 40 attacks Player 41 with Fist! (miss)
+2023-05-22T21:20:15.731220700Z,Player 41 attacks Player 40 with Bow! (miss)
+2023-05-22T21:20:15.735871100Z,Player 40 attacks Player 41 with Fist! (hit)
+2023-05-22T21:20:15.740224Z,Player 40 attacks Player 41 with Fist! (miss)
+2023-05-22T21:20:15.744744600Z,Player 41 attacks Player 40 with Bow! (hit)
+2023-05-22T21:20:15.748744200Z,Player 41 attacks Player 40 with Bow! (miss)
+2023-05-22T21:20:15.753633800Z,Player 40 attacks Player 41 with Fist! (miss)
+2023-05-22T21:20:15.757919300Z,Player 41 attacks Player 40 with Bow! (hit)
+2023-05-22T21:20:15.761930500Z,Player 41 attacks Player 40 with Bow! (miss)
+2023-05-22T21:20:15.767004400Z,Player 40 dies!
+2023-05-22T21:20:15.771405400Z,Encounter finished!
+
+2023-05-22T21:20:15.775485100Z,Player 21 finds a(n) Sword
+2023-05-22T21:20:15.780485600Z,Players move randomly!
+2023-05-22T21:20:15.785569800Z,Encounter started!
+2023-05-22T21:20:15.790570800Z,Player 7 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:15.794570300Z,Player 7 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:15.799685200Z,Player 36 attacks Player 7 with Sword! (miss)
+2023-05-22T21:20:15.803686100Z,Player 7 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:15.808827700Z,Player 7 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:15.813370900Z,Player 36 attacks Player 7 with Sword! (miss)
+2023-05-22T21:20:15.817466700Z,Player 7 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:15.822465400Z,Player 7 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:15.827103900Z,Player 36 attacks Player 7 with Sword! (hit)
+2023-05-22T21:20:15.831247600Z,Player 36 attacks Player 7 with Sword! (miss)
+2023-05-22T21:20:15.836238700Z,Player 7 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:15.841686200Z,Player 7 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:15.846608300Z,Player 36 attacks Player 7 with Sword! (hit)
+2023-05-22T21:20:15.850975800Z,Player 36 attacks Player 7 with Sword! (miss)
+2023-05-22T21:20:15.855978100Z,Player 7 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:15.860082300Z,Player 7 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:15.864898600Z,Player 36 attacks Player 7 with Sword! (hit)
+2023-05-22T21:20:15.869203100Z,Player 36 attacks Player 7 with Sword! (miss)
+2023-05-22T21:20:15.874322700Z,Player 7 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:15.878323800Z,Player 7 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:15.883378Z,Player 36 attacks Player 7 with Sword! (hit)
+2023-05-22T21:20:15.887390700Z,Player 36 attacks Player 7 with Sword! (miss)
+2023-05-22T21:20:15.891391200Z,Player 7 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:15.895483100Z,Player 7 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:15.900474400Z,Player 36 attacks Player 7 with Sword! (hit)
+2023-05-22T21:20:15.904956900Z,Player 36 attacks Player 7 with Sword! (miss)
+2023-05-22T21:20:15.909883700Z,Player 7 dies!
+2023-05-22T21:20:15.914396700Z,Encounter finished!
+
+2023-05-22T21:20:15.918633400Z,Player 20 finds a(n) Bow
+2023-05-22T21:20:15.922646600Z,Players move randomly!
+2023-05-22T21:20:15.926733300Z,Encounter started!
+2023-05-22T21:20:15.931759500Z,Player 5 attacks Player 38 with Sword! (hit)
+2023-05-22T21:20:15.936871400Z,Player 5 attacks Player 38 with Sword! (miss)
+2023-05-22T21:20:15.941217700Z,Player 38 attacks Player 5 with Bow! (hit)
+2023-05-22T21:20:15.945209500Z,Player 38 attacks Player 5 with Bow! (miss)
+2023-05-22T21:20:15.949947400Z,Player 5 attacks Player 38 with Sword! (hit)
+2023-05-22T21:20:15.954255400Z,Player 5 attacks Player 38 with Sword! (miss)
+2023-05-22T21:20:15.958350300Z,Player 38 attacks Player 5 with Bow! (hit)
+2023-05-22T21:20:15.962351400Z,Player 38 attacks Player 5 with Bow! (miss)
+2023-05-22T21:20:15.967455900Z,Player 5 attacks Player 38 with Sword! (miss)
+2023-05-22T21:20:15.972303800Z,Player 38 attacks Player 5 with Bow! (miss)
+2023-05-22T21:20:15.976644Z,Player 5 attacks Player 38 with Sword! (hit)
+2023-05-22T21:20:15.981654200Z,Player 5 attacks Player 38 with Sword! (miss)
+2023-05-22T21:20:15.986169900Z,Player 38 attacks Player 5 with Bow! (miss)
+2023-05-22T21:20:15.990715400Z,Player 5 attacks Player 38 with Sword! (hit)
+2023-05-22T21:20:15.995716600Z,Player 5 attacks Player 38 with Sword! (miss)
+2023-05-22T21:20:15.999800200Z,Player 38 attacks Player 5 with Bow! (miss)
+2023-05-22T21:20:16.004801300Z,Player 5 attacks Player 38 with Sword! (hit)
+2023-05-22T21:20:16.008853500Z,Player 5 attacks Player 38 with Sword! (miss)
+2023-05-22T21:20:16.013854Z,Player 38 dies!
+2023-05-22T21:20:16.018427800Z,Encounter finished!
+
+2023-05-22T21:20:16.022535600Z,Players move randomly!
+2023-05-22T21:20:16.026529500Z,Player 17 finds a(n) Axe
+2023-05-22T21:20:16.032083900Z,Players move randomly!
+2023-05-22T21:20:16.036084700Z,Encounter started!
+2023-05-22T21:20:16.041165300Z,Player 41 attacks Player 48 with Bow! (hit)
+2023-05-22T21:20:16.045165600Z,Player 41 attacks Player 48 with Bow! (miss)
+2023-05-22T21:20:16.049972500Z,Player 48 attacks Player 41 with Fist! (miss)
+2023-05-22T21:20:16.054095Z,Player 41 attacks Player 48 with Bow! (hit)
+2023-05-22T21:20:16.059095700Z,Player 41 attacks Player 48 with Bow! (miss)
+2023-05-22T21:20:16.064288900Z,Player 48 attacks Player 41 with Fist! (hit)
+2023-05-22T21:20:16.068596100Z,Player 48 attacks Player 41 with Fist! (miss)
+2023-05-22T21:20:16.072597600Z,Player 41 attacks Player 48 with Bow! (hit)
+2023-05-22T21:20:16.077707700Z,Player 41 attacks Player 48 with Bow! (miss)
+2023-05-22T21:20:16.081708700Z,Player 48 dies!
+2023-05-22T21:20:16.086758300Z,Encounter finished!
+
+2023-05-22T21:20:16.091185400Z,Encounter started!
+2023-05-22T21:20:16.095260600Z,Player 6 attacks Player 11 with Axe! (miss)
+2023-05-22T21:20:16.098916600Z,Player 11 attacks Player 6 with Bow! (miss)
+2023-05-22T21:20:16.104155200Z,Player 18 attacks Player 11 with Bow! (miss)
+2023-05-22T21:20:16.108295900Z,Player 6 attacks Player 11 with Axe! (hit)
+2023-05-22T21:20:16.112297Z,Player 6 attacks Player 11 with Axe! (miss)
+2023-05-22T21:20:16.117106100Z,Player 11 attacks Player 18 with Bow! (hit)
+2023-05-22T21:20:16.121105900Z,Player 11 attacks Player 18 with Bow! (miss)
+2023-05-22T21:20:16.125116600Z,Player 18 attacks Player 6 with Bow! (hit)
+2023-05-22T21:20:16.130214900Z,Player 18 attacks Player 6 with Bow! (miss)
+2023-05-22T21:20:16.134202200Z,Player 6 dies!
+2023-05-22T21:20:16.139288700Z,Player 11 attacks Player 18 with Bow! (miss)
+2023-05-22T21:20:16.144248800Z,Player 18 attacks Player 11 with Bow! (miss)
+2023-05-22T21:20:16.148352900Z,Player 11 attacks Player 18 with Bow! (hit)
+2023-05-22T21:20:16.153171400Z,Player 11 attacks Player 18 with Bow! (miss)
+2023-05-22T21:20:16.157183600Z,Player 18 attacks Player 11 with Bow! (hit)
+2023-05-22T21:20:16.161242400Z,Player 18 attacks Player 11 with Bow! (miss)
+2023-05-22T21:20:16.165243200Z,Player 11 attacks Player 18 with Bow! (miss)
+2023-05-22T21:20:16.170283400Z,Player 18 attacks Player 11 with Bow! (miss)
+2023-05-22T21:20:16.174344700Z,Player 11 attacks Player 18 with Bow! (miss)
+2023-05-22T21:20:16.179345800Z,Player 18 attacks Player 11 with Bow! (miss)
+2023-05-22T21:20:16.183433600Z,Player 11 attacks Player 18 with Bow! (miss)
+2023-05-22T21:20:16.188750700Z,Player 18 attacks Player 11 with Bow! (hit)
+2023-05-22T21:20:16.192877100Z,Player 18 attacks Player 11 with Bow! (miss)
+2023-05-22T21:20:16.197869400Z,Player 11 attacks Player 18 with Bow! (hit)
+2023-05-22T21:20:16.202365100Z,Player 11 attacks Player 18 with Bow! (miss)
+2023-05-22T21:20:16.207367600Z,Player 18 dies!
+2023-05-22T21:20:16.211359Z,Encounter finished!
+
+2023-05-22T21:20:16.216476500Z,Player 23 finds a(n) Sword
+2023-05-22T21:20:16.221607900Z,Players move randomly!
+2023-05-22T21:20:16.225585500Z,Player 33 finds a(n) Bow
+2023-05-22T21:20:16.230586600Z,Players move randomly!
+2023-05-22T21:20:16.236049600Z,Encounter started!
+2023-05-22T21:20:16.240066700Z,Player 12 attacks Player 45 with Bow! (miss)
+2023-05-22T21:20:16.245194200Z,Player 45 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:16.249850800Z,Player 12 attacks Player 45 with Bow! (miss)
+2023-05-22T21:20:16.253863100Z,Player 45 attacks Player 12 with Fist! (hit)
+2023-05-22T21:20:16.258937500Z,Player 45 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:16.263279100Z,Player 12 attacks Player 45 with Bow! (miss)
+2023-05-22T21:20:16.267379Z,Player 45 attacks Player 12 with Fist! (hit)
+2023-05-22T21:20:16.272370400Z,Player 45 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:16.276491300Z,Player 12 attacks Player 45 with Bow! (hit)
+2023-05-22T21:20:16.282117700Z,Player 12 attacks Player 45 with Bow! (miss)
+2023-05-22T21:20:16.286410300Z,Player 45 attacks Player 12 with Fist! (hit)
+2023-05-22T21:20:16.290528500Z,Player 45 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:16.295529500Z,Player 12 attacks Player 45 with Bow! (hit)
+2023-05-22T21:20:16.300622300Z,Player 12 attacks Player 45 with Bow! (miss)
+2023-05-22T21:20:16.305555900Z,Player 45 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:16.309688Z,Player 12 attacks Player 45 with Bow! (hit)
+2023-05-22T21:20:16.314373800Z,Player 12 attacks Player 45 with Bow! (miss)
+2023-05-22T21:20:16.318807500Z,Player 45 dies!
+2023-05-22T21:20:16.323148600Z,Encounter finished!
+
+2023-05-22T21:20:16.327576300Z,Players move randomly!
+2023-05-22T21:20:16.331075600Z,Players move randomly!
+2023-05-22T21:20:16.336075600Z,Encounter started!
+2023-05-22T21:20:16.341279Z,Player 34 attacks Player 47 with Bow! (hit)
+2023-05-22T21:20:16.345291300Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.349292200Z,Player 47 attacks Player 34 with Fist! (hit)
+2023-05-22T21:20:16.353363100Z,Player 47 attacks Player 34 with Fist! (miss)
+2023-05-22T21:20:16.358334700Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.362834900Z,Player 47 attacks Player 34 with Fist! (hit)
+2023-05-22T21:20:16.366836900Z,Player 47 attacks Player 34 with Fist! (miss)
+2023-05-22T21:20:16.370838200Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.375937600Z,Player 47 attacks Player 34 with Fist! (miss)
+2023-05-22T21:20:16.380237200Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.384310100Z,Player 47 attacks Player 34 with Fist! (hit)
+2023-05-22T21:20:16.388311100Z,Player 47 attacks Player 34 with Fist! (miss)
+2023-05-22T21:20:16.393393100Z,Player 34 attacks Player 47 with Bow! (hit)
+2023-05-22T21:20:16.397552900Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.402553600Z,Player 47 attacks Player 34 with Fist! (hit)
+2023-05-22T21:20:16.407658600Z,Player 47 attacks Player 34 with Fist! (miss)
+2023-05-22T21:20:16.412110600Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.417234500Z,Player 47 attacks Player 34 with Fist! (hit)
+2023-05-22T21:20:16.421227Z,Player 47 attacks Player 34 with Fist! (miss)
+2023-05-22T21:20:16.426311100Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.430312100Z,Player 47 attacks Player 34 with Fist! (hit)
+2023-05-22T21:20:16.435407600Z,Player 47 attacks Player 34 with Fist! (miss)
+2023-05-22T21:20:16.439793600Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.443803300Z,Player 47 attacks Player 34 with Fist! (hit)
+2023-05-22T21:20:16.448872400Z,Player 47 attacks Player 34 with Fist! (miss)
+2023-05-22T21:20:16.453464600Z,Player 34 attacks Player 47 with Bow! (hit)
+2023-05-22T21:20:16.458055900Z,Player 34 attacks Player 47 with Bow! (miss)
+2023-05-22T21:20:16.462053200Z,Player 47 dies!
+2023-05-22T21:20:16.467116600Z,Encounter finished!
+
+2023-05-22T21:20:16.471203100Z,Players move randomly!
+2023-05-22T21:20:16.476204400Z,Players move randomly!
+2023-05-22T21:20:16.481151100Z,Encounter started!
+2023-05-22T21:20:16.486351900Z,Player 10 attacks Player 28 with Fist! (hit)
+2023-05-22T21:20:16.490439700Z,Player 10 attacks Player 28 with Fist! (miss)
+2023-05-22T21:20:16.495440300Z,Player 28 attacks Player 10 with Sword! (miss)
+2023-05-22T21:20:16.500061100Z,Player 10 attacks Player 28 with Fist! (hit)
+2023-05-22T21:20:16.504057500Z,Player 10 attacks Player 28 with Fist! (miss)
+2023-05-22T21:20:16.509058700Z,Player 28 attacks Player 10 with Sword! (hit)
+2023-05-22T21:20:16.513847500Z,Player 28 attacks Player 10 with Sword! (miss)
+2023-05-22T21:20:16.517860200Z,Player 10 attacks Player 28 with Fist! (hit)
+2023-05-22T21:20:16.521928800Z,Player 10 attacks Player 28 with Fist! (miss)
+2023-05-22T21:20:16.526928600Z,Player 28 attacks Player 10 with Sword! (hit)
+2023-05-22T21:20:16.531058600Z,Player 28 attacks Player 10 with Sword! (miss)
+2023-05-22T21:20:16.535117200Z,Player 10 attacks Player 28 with Fist! (hit)
+2023-05-22T21:20:16.539117900Z,Player 10 attacks Player 28 with Fist! (miss)
+2023-05-22T21:20:16.544189Z,Player 28 dies!
+2023-05-22T21:20:16.548201400Z,Encounter finished!
+
+2023-05-22T21:20:16.552896800Z,Encounter started!
+2023-05-22T21:20:16.556984100Z,Player 3 attacks Player 21 with Fist! (hit)
+2023-05-22T21:20:16.560985200Z,Player 3 attacks Player 21 with Fist! (miss)
+2023-05-22T21:20:16.566070200Z,Player 21 attacks Player 3 with Sword! (hit)
+2023-05-22T21:20:16.570408200Z,Player 21 attacks Player 3 with Sword! (miss)
+2023-05-22T21:20:16.574773300Z,Player 3 attacks Player 21 with Fist! (hit)
+2023-05-22T21:20:16.578781500Z,Player 3 attacks Player 21 with Fist! (miss)
+2023-05-22T21:20:16.582773300Z,Player 21 attacks Player 3 with Sword! (miss)
+2023-05-22T21:20:16.588060800Z,Player 3 attacks Player 21 with Fist! (hit)
+2023-05-22T21:20:16.592521700Z,Player 3 attacks Player 21 with Fist! (miss)
+2023-05-22T21:20:16.596870300Z,Player 21 attacks Player 3 with Sword! (miss)
+2023-05-22T21:20:16.601376Z,Player 3 attacks Player 21 with Fist! (hit)
+2023-05-22T21:20:16.605388500Z,Player 3 attacks Player 21 with Fist! (miss)
+2023-05-22T21:20:16.610456100Z,Player 21 attacks Player 3 with Sword! (hit)
+2023-05-22T21:20:16.614457300Z,Player 21 attacks Player 3 with Sword! (miss)
+2023-05-22T21:20:16.619539900Z,Player 3 attacks Player 21 with Fist! (hit)
+2023-05-22T21:20:16.623850500Z,Player 3 attacks Player 21 with Fist! (miss)
+2023-05-22T21:20:16.627943100Z,Player 21 attacks Player 3 with Sword! (hit)
+2023-05-22T21:20:16.632943Z,Player 21 attacks Player 3 with Sword! (miss)
+2023-05-22T21:20:16.637989100Z,Player 3 attacks Player 21 with Fist! (miss)
+2023-05-22T21:20:16.642033500Z,Player 21 attacks Player 3 with Sword! (miss)
+2023-05-22T21:20:16.646034100Z,Player 3 attacks Player 21 with Fist! (hit)
+2023-05-22T21:20:16.651136600Z,Player 3 attacks Player 21 with Fist! (miss)
+2023-05-22T21:20:16.656138900Z,Player 21 attacks Player 3 with Sword! (hit)
+2023-05-22T21:20:16.660199200Z,Player 21 attacks Player 3 with Sword! (miss)
+2023-05-22T21:20:16.665200200Z,Player 3 attacks Player 21 with Fist! (hit)
+2023-05-22T21:20:16.669843500Z,Player 3 attacks Player 21 with Fist! (miss)
+2023-05-22T21:20:16.673951100Z,Player 21 attacks Player 3 with Sword! (hit)
+2023-05-22T21:20:16.678952300Z,Player 21 attacks Player 3 with Sword! (miss)
+2023-05-22T21:20:16.684053600Z,Player 3 dies!
+2023-05-22T21:20:16.688053700Z,Encounter finished!
+
+2023-05-22T21:20:16.693139900Z,Players move randomly!
+2023-05-22T21:20:16.698140600Z,Encounter started!
+2023-05-22T21:20:16.702842800Z,Player 17 attacks Player 25 with Axe! (hit)
+2023-05-22T21:20:16.706857200Z,Player 17 attacks Player 25 with Axe! (miss)
+2023-05-22T21:20:16.711856900Z,Player 25 attacks Player 17 with Sword! (hit)
+2023-05-22T21:20:16.716960Z,Player 25 attacks Player 17 with Sword! (miss)
+2023-05-22T21:20:16.721770200Z,Player 17 dies!
+2023-05-22T21:20:16.725876Z,Encounter finished!
+
+2023-05-22T21:20:16.730876500Z,Players move randomly!
+2023-05-22T21:20:16.734968100Z,Players move randomly!
+2023-05-22T21:20:16.739935300Z,Encounter started!
+2023-05-22T21:20:16.743946Z,Player 12 attacks Player 25 with Bow! (hit)
+2023-05-22T21:20:16.749021700Z,Player 12 attacks Player 25 with Bow! (miss)
+2023-05-22T21:20:16.753343500Z,Player 25 attacks Player 12 with Sword! (hit)
+2023-05-22T21:20:16.757475400Z,Player 25 attacks Player 12 with Sword! (miss)
+2023-05-22T21:20:16.762057600Z,Player 12 attacks Player 25 with Bow! (miss)
+2023-05-22T21:20:16.766069600Z,Player 25 attacks Player 12 with Sword! (miss)
+2023-05-22T21:20:16.770142800Z,Player 12 attacks Player 25 with Bow! (miss)
+2023-05-22T21:20:16.775156100Z,Player 25 attacks Player 12 with Sword! (miss)
+2023-05-22T21:20:16.778647900Z,Player 12 attacks Player 25 with Bow! (miss)
+2023-05-22T21:20:16.783833800Z,Player 25 attacks Player 12 with Sword! (hit)
+2023-05-22T21:20:16.788618300Z,Player 25 attacks Player 12 with Sword! (miss)
+2023-05-22T21:20:16.792627700Z,Player 12 attacks Player 25 with Bow! (miss)
+2023-05-22T21:20:16.797604100Z,Player 25 attacks Player 12 with Sword! (hit)
+2023-05-22T21:20:16.801721700Z,Player 25 attacks Player 12 with Sword! (miss)
+2023-05-22T21:20:16.805775200Z,Player 12 attacks Player 25 with Bow! (hit)
+2023-05-22T21:20:16.810831800Z,Player 12 attacks Player 25 with Bow! (miss)
+2023-05-22T21:20:16.814833100Z,Player 25 dies!
+2023-05-22T21:20:16.818833900Z,Encounter finished!
+
+2023-05-22T21:20:16.822912400Z,Players move randomly!
+2023-05-22T21:20:16.827913200Z,Encounter started!
+2023-05-22T21:20:16.830968200Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.835969200Z,Player 41 attacks Player 34 with Bow! (miss)
+2023-05-22T21:20:16.840829600Z,Player 34 attacks Player 41 with Bow! (hit)
+2023-05-22T21:20:16.844958200Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.849959700Z,Player 41 attacks Player 34 with Bow! (miss)
+2023-05-22T21:20:16.855052200Z,Player 34 attacks Player 41 with Bow! (hit)
+2023-05-22T21:20:16.859586Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.863985800Z,Player 41 attacks Player 34 with Bow! (miss)
+2023-05-22T21:20:16.868979100Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.873815700Z,Player 41 attacks Player 34 with Bow! (hit)
+2023-05-22T21:20:16.877813800Z,Player 41 attacks Player 34 with Bow! (miss)
+2023-05-22T21:20:16.882815200Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.887822900Z,Player 41 attacks Player 34 with Bow! (miss)
+2023-05-22T21:20:16.892350600Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.896859100Z,Player 41 attacks Player 34 with Bow! (miss)
+2023-05-22T21:20:16.900868200Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.906068Z,Player 41 attacks Player 34 with Bow! (miss)
+2023-05-22T21:20:16.911070400Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.916159800Z,Player 41 attacks Player 34 with Bow! (miss)
+2023-05-22T21:20:16.920299200Z,Player 34 attacks Player 41 with Bow! (hit)
+2023-05-22T21:20:16.924309900Z,Player 34 attacks Player 41 with Bow! (miss)
+2023-05-22T21:20:16.929402Z,Player 41 dies!
+2023-05-22T21:20:16.934412600Z,Encounter finished!
+
+2023-05-22T21:20:16.938500400Z,Players move randomly!
+2023-05-22T21:20:16.943199200Z,Encounter started!
+2023-05-22T21:20:16.948201400Z,Player 10 attacks Player 20 with Fist! (miss)
+2023-05-22T21:20:16.952340800Z,Player 20 attacks Player 10 with Bow! (miss)
+2023-05-22T21:20:16.956341500Z,Player 10 attacks Player 20 with Fist! (hit)
+2023-05-22T21:20:16.961303900Z,Player 10 attacks Player 20 with Fist! (miss)
+2023-05-22T21:20:16.965317400Z,Player 20 attacks Player 10 with Bow! (miss)
+2023-05-22T21:20:16.970018300Z,Player 10 attacks Player 20 with Fist! (hit)
+2023-05-22T21:20:16.974024300Z,Player 10 attacks Player 20 with Fist! (miss)
+2023-05-22T21:20:16.978918700Z,Player 20 attacks Player 10 with Bow! (hit)
+2023-05-22T21:20:16.983063800Z,Player 20 attacks Player 10 with Bow! (miss)
+2023-05-22T21:20:16.987731900Z,Player 10 attacks Player 20 with Fist! (hit)
+2023-05-22T21:20:16.991866400Z,Player 10 attacks Player 20 with Fist! (miss)
+2023-05-22T21:20:16.995857700Z,Player 20 attacks Player 10 with Bow! (hit)
+2023-05-22T21:20:17.000891400Z,Player 20 attacks Player 10 with Bow! (miss)
+2023-05-22T21:20:17.004770600Z,Player 10 dies!
+2023-05-22T21:20:17.008783Z,Encounter finished!
+
+2023-05-22T21:20:17.013580100Z,Encounter started!
+2023-05-22T21:20:17.017855100Z,Player 5 attacks Player 11 with Sword! (hit)
+2023-05-22T21:20:17.021866300Z,Player 5 attacks Player 11 with Sword! (miss)
+2023-05-22T21:20:17.025730700Z,Player 11 dies!
+2023-05-22T21:20:17.031117600Z,Encounter finished!
+
+2023-05-22T21:20:17.035216400Z,Player 33 finds a(n) Bow
+2023-05-22T21:20:17.039217200Z,Players move randomly!
+2023-05-22T21:20:17.044099500Z,Encounter started!
+2023-05-22T21:20:17.048108600Z,Player 1 attacks Player 34 with Sword! (hit)
+2023-05-22T21:20:17.053108800Z,Player 1 attacks Player 34 with Sword! (miss)
+2023-05-22T21:20:17.057197200Z,Player 34 attacks Player 1 with Bow! (hit)
+2023-05-22T21:20:17.062188900Z,Player 34 attacks Player 1 with Bow! (miss)
+2023-05-22T21:20:17.066276800Z,Player 1 attacks Player 34 with Sword! (hit)
+2023-05-22T21:20:17.071277800Z,Player 1 attacks Player 34 with Sword! (miss)
+2023-05-22T21:20:17.075673600Z,Player 34 dies!
+2023-05-22T21:20:17.080227400Z,Encounter finished!
+
+2023-05-22T21:20:17.084238200Z,Players move randomly!
+2023-05-22T21:20:17.089330400Z,Encounter started!
+2023-05-22T21:20:17.094323200Z,Player 1 attacks Player 23 with Sword! (hit)
+2023-05-22T21:20:17.099425300Z,Player 1 attacks Player 23 with Sword! (miss)
+2023-05-22T21:20:17.103426400Z,Player 23 attacks Player 1 with Sword! (hit)
+2023-05-22T21:20:17.109018400Z,Player 23 attacks Player 1 with Sword! (miss)
+2023-05-22T21:20:17.113281500Z,Player 1 attacks Player 23 with Sword! (miss)
+2023-05-22T21:20:17.118431600Z,Player 23 attacks Player 1 with Sword! (hit)
+2023-05-22T21:20:17.123323200Z,Player 23 attacks Player 1 with Sword! (miss)
+2023-05-22T21:20:17.127629200Z,Player 1 dies!
+2023-05-22T21:20:17.132732300Z,Encounter finished!
+
+2023-05-22T21:20:17.136733Z,Players move randomly!
+2023-05-22T21:20:17.141606900Z,Players move randomly!
+2023-05-22T21:20:17.145611300Z,Encounter started!
+2023-05-22T21:20:17.150701300Z,Player 36 attacks Player 43 with Sword! (hit)
+2023-05-22T21:20:17.155701100Z,Player 36 attacks Player 43 with Sword! (miss)
+2023-05-22T21:20:17.159702300Z,Player 43 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:17.164769400Z,Player 43 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.169769800Z,Player 36 attacks Player 43 with Sword! (hit)
+2023-05-22T21:20:17.173841600Z,Player 36 attacks Player 43 with Sword! (miss)
+2023-05-22T21:20:17.178842700Z,Player 43 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:17.183479200Z,Player 43 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.188480300Z,Player 36 attacks Player 43 with Sword! (hit)
+2023-05-22T21:20:17.192559500Z,Player 36 attacks Player 43 with Sword! (miss)
+2023-05-22T21:20:17.197445400Z,Player 43 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:17.201458200Z,Player 43 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.205920Z,Player 36 attacks Player 43 with Sword! (hit)
+2023-05-22T21:20:17.209920800Z,Player 36 attacks Player 43 with Sword! (miss)
+2023-05-22T21:20:17.215056200Z,Player 43 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.219066400Z,Player 36 attacks Player 43 with Sword! (miss)
+2023-05-22T21:20:17.223058Z,Player 43 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.228123400Z,Player 36 attacks Player 43 with Sword! (hit)
+2023-05-22T21:20:17.232127Z,Player 36 attacks Player 43 with Sword! (miss)
+2023-05-22T21:20:17.236997500Z,Player 43 dies!
+2023-05-22T21:20:17.240999500Z,Encounter finished!
+
+2023-05-22T21:20:17.245988200Z,Encounter started!
+2023-05-22T21:20:17.250556600Z,Player 23 attacks Player 32 with Sword! (hit)
+2023-05-22T21:20:17.254568700Z,Player 23 attacks Player 32 with Sword! (miss)
+2023-05-22T21:20:17.259571400Z,Player 32 attacks Player 23 with Fist! (hit)
+2023-05-22T21:20:17.263954500Z,Player 32 attacks Player 23 with Fist! (miss)
+2023-05-22T21:20:17.267329800Z,Player 23 attacks Player 32 with Sword! (miss)
+2023-05-22T21:20:17.272643300Z,Player 32 attacks Player 23 with Fist! (hit)
+2023-05-22T21:20:17.277414500Z,Player 32 attacks Player 23 with Fist! (miss)
+2023-05-22T21:20:17.282575600Z,Player 23 attacks Player 32 with Sword! (hit)
+2023-05-22T21:20:17.287257300Z,Player 23 attacks Player 32 with Sword! (miss)
+2023-05-22T21:20:17.291372300Z,Player 32 attacks Player 23 with Fist! (hit)
+2023-05-22T21:20:17.296470200Z,Player 32 attacks Player 23 with Fist! (miss)
+2023-05-22T21:20:17.300844600Z,Player 23 attacks Player 32 with Sword! (miss)
+2023-05-22T21:20:17.306264Z,Player 32 attacks Player 23 with Fist! (miss)
+2023-05-22T21:20:17.310748Z,Player 23 attacks Player 32 with Sword! (miss)
+2023-05-22T21:20:17.314747400Z,Player 32 attacks Player 23 with Fist! (miss)
+2023-05-22T21:20:17.319753400Z,Player 23 attacks Player 32 with Sword! (hit)
+2023-05-22T21:20:17.323753300Z,Player 23 attacks Player 32 with Sword! (miss)
+2023-05-22T21:20:17.329302100Z,Player 32 dies!
+2023-05-22T21:20:17.333681900Z,Encounter finished!
+
+2023-05-22T21:20:17.338659300Z,Players move randomly!
+2023-05-22T21:20:17.343094100Z,Players move randomly!
+2023-05-22T21:20:17.348094900Z,Encounter started!
+2023-05-22T21:20:17.353190700Z,Player 12 attacks Player 31 with Bow! (hit)
+2023-05-22T21:20:17.357700800Z,Player 12 attacks Player 31 with Bow! (miss)
+2023-05-22T21:20:17.361713600Z,Player 31 attacks Player 12 with Fist! (hit)
+2023-05-22T21:20:17.366779200Z,Player 31 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:17.371125500Z,Player 12 attacks Player 31 with Bow! (miss)
+2023-05-22T21:20:17.375218500Z,Player 31 attacks Player 12 with Fist! (hit)
+2023-05-22T21:20:17.380219100Z,Player 31 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:17.385292Z,Player 12 attacks Player 31 with Bow! (miss)
+2023-05-22T21:20:17.389292100Z,Player 31 attacks Player 12 with Fist! (hit)
+2023-05-22T21:20:17.394293100Z,Player 31 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:17.398637300Z,Player 12 attacks Player 31 with Bow! (hit)
+2023-05-22T21:20:17.403117400Z,Player 12 attacks Player 31 with Bow! (miss)
+2023-05-22T21:20:17.407595200Z,Player 31 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:17.411994400Z,Player 12 attacks Player 31 with Bow! (hit)
+2023-05-22T21:20:17.416267400Z,Player 12 attacks Player 31 with Bow! (miss)
+2023-05-22T21:20:17.420986200Z,Player 31 dies!
+2023-05-22T21:20:17.425254400Z,Encounter finished!
+
+2023-05-22T21:20:17.429378500Z,Players move randomly!
+2023-05-22T21:20:17.434221700Z,Encounter started!
+2023-05-22T21:20:17.438572700Z,Player 0 attacks Player 21 with Sword! (hit)
+2023-05-22T21:20:17.442582200Z,Player 0 attacks Player 21 with Sword! (miss)
+2023-05-22T21:20:17.446582900Z,Player 21 attacks Player 0 with Sword! (hit)
+2023-05-22T21:20:17.451457900Z,Player 21 attacks Player 0 with Sword! (miss)
+2023-05-22T21:20:17.455470400Z,Player 0 attacks Player 21 with Sword! (hit)
+2023-05-22T21:20:17.459471400Z,Player 0 attacks Player 21 with Sword! (miss)
+2023-05-22T21:20:17.463549300Z,Player 21 attacks Player 0 with Sword! (miss)
+2023-05-22T21:20:17.468550500Z,Player 0 attacks Player 21 with Sword! (hit)
+2023-05-22T21:20:17.472637200Z,Player 0 attacks Player 21 with Sword! (miss)
+2023-05-22T21:20:17.476638Z,Player 21 attacks Player 0 with Sword! (hit)
+2023-05-22T21:20:17.481620300Z,Player 21 attacks Player 0 with Sword! (miss)
+2023-05-22T21:20:17.485629600Z,Player 0 attacks Player 21 with Sword! (hit)
+2023-05-22T21:20:17.490620900Z,Player 0 attacks Player 21 with Sword! (miss)
+2023-05-22T21:20:17.495695900Z,Player 21 dies!
+2023-05-22T21:20:17.499696800Z,Encounter finished!
+
+2023-05-22T21:20:17.504793900Z,Encounter started!
+2023-05-22T21:20:17.510795800Z,Player 5 attacks Player 15 with Sword! (hit)
+2023-05-22T21:20:17.514898600Z,Player 5 attacks Player 15 with Sword! (miss)
+2023-05-22T21:20:17.520687600Z,Player 15 attacks Player 5 with Fist! (hit)
+2023-05-22T21:20:17.525813900Z,Player 15 attacks Player 5 with Fist! (miss)
+2023-05-22T21:20:17.529815Z,Player 5 dies!
+2023-05-22T21:20:17.534914300Z,Encounter finished!
+
+2023-05-22T21:20:17.539914500Z,Players move randomly!
+2023-05-22T21:20:17.543915300Z,Encounter started!
+2023-05-22T21:20:17.549011800Z,Player 12 attacks Player 15 with Bow! (miss)
+2023-05-22T21:20:17.554243200Z,Player 15 attacks Player 12 with Fist! (hit)
+2023-05-22T21:20:17.558777700Z,Player 15 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:17.563832400Z,Player 12 attacks Player 15 with Bow! (miss)
+2023-05-22T21:20:17.567930600Z,Player 15 attacks Player 12 with Fist! (hit)
+2023-05-22T21:20:17.573137900Z,Player 15 attacks Player 12 with Fist! (miss)
+2023-05-22T21:20:17.577628800Z,Player 12 dies!
+2023-05-22T21:20:17.582120400Z,Encounter finished!
+
+2023-05-22T21:20:17.587132800Z,Players move randomly!
+2023-05-22T21:20:17.591200500Z,Encounter started!
+2023-05-22T21:20:17.596201700Z,Player 15 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:17.601295600Z,Player 15 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.605898400Z,Player 36 attacks Player 15 with Sword! (hit)
+2023-05-22T21:20:17.610289800Z,Player 36 attacks Player 15 with Sword! (miss)
+2023-05-22T21:20:17.615406100Z,Player 15 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:17.619786800Z,Player 15 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.623796300Z,Player 36 attacks Player 15 with Sword! (miss)
+2023-05-22T21:20:17.628802600Z,Player 15 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:17.632873900Z,Player 15 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.637607400Z,Player 36 attacks Player 15 with Sword! (hit)
+2023-05-22T21:20:17.641951300Z,Player 36 attacks Player 15 with Sword! (miss)
+2023-05-22T21:20:17.646285300Z,Player 15 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:17.650297800Z,Player 15 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.655027800Z,Player 36 attacks Player 15 with Sword! (hit)
+2023-05-22T21:20:17.659028800Z,Player 36 attacks Player 15 with Sword! (miss)
+2023-05-22T21:20:17.664468300Z,Player 15 attacks Player 36 with Fist! (hit)
+2023-05-22T21:20:17.668782800Z,Player 15 attacks Player 36 with Fist! (miss)
+2023-05-22T21:20:17.672794700Z,Player 36 attacks Player 15 with Sword! (hit)
+2023-05-22T21:20:17.677919500Z,Player 36 attacks Player 15 with Sword! (miss)
+2023-05-22T21:20:17.681919400Z,Player 15 dies!
+2023-05-22T21:20:17.686999300Z,Encounter finished!
+
+2023-05-22T21:20:17.691494500Z,Players move randomly!
+2023-05-22T21:20:17.696505700Z,Players move randomly!
+2023-05-22T21:20:17.700730400Z,Players move randomly!
+2023-05-22T21:20:17.705210Z,Players move randomly!
+2023-05-22T21:20:17.710210300Z,Players move randomly!
+2023-05-22T21:20:17.714454300Z,Players move randomly!
+2023-05-22T21:20:17.719537600Z,Players move randomly!
+2023-05-22T21:20:17.724254500Z,Players move randomly!
+2023-05-22T21:20:17.728384700Z,Players move randomly!
+2023-05-22T21:20:17.733385600Z,Players move randomly!
+2023-05-22T21:20:17.738461100Z,Players move randomly!
+2023-05-22T21:20:17.743467400Z,Players move randomly!
+2023-05-22T21:20:17.747578300Z,Encounter started!
+2023-05-22T21:20:17.752520400Z,Player 23 attacks Player 36 with Sword! (hit)
+2023-05-22T21:20:17.758539500Z,Player 23 attacks Player 36 with Sword! (miss)
+2023-05-22T21:20:17.762629800Z,Player 36 attacks Player 23 with Sword! (hit)
+2023-05-22T21:20:17.767621300Z,Player 36 attacks Player 23 with Sword! (miss)
+2023-05-22T21:20:17.772244900Z,Player 23 attacks Player 36 with Sword! (hit)
+2023-05-22T21:20:17.776911800Z,Player 23 attacks Player 36 with Sword! (miss)
+2023-05-22T21:20:17.781013800Z,Player 36 dies!
+2023-05-22T21:20:17.786005600Z,Encounter finished!
+
+2023-05-22T21:20:17.790076800Z,Players move randomly!
+2023-05-22T21:20:17.795075900Z,Players move randomly!
+2023-05-22T21:20:17.799402600Z,Players move randomly!
+2023-05-22T21:20:17.804483600Z,Encounter started!
+2023-05-22T21:20:17.808880Z,Player 20 attacks Player 33 with Bow! (hit)
+2023-05-22T21:20:17.812933700Z,Player 20 attacks Player 33 with Bow! (miss)
+2023-05-22T21:20:17.817944300Z,Player 33 attacks Player 20 with Bow! (miss)
+2023-05-22T21:20:17.823152600Z,Player 20 attacks Player 33 with Bow! (miss)
+2023-05-22T21:20:17.827436300Z,Player 33 attacks Player 20 with Bow! (miss)
+2023-05-22T21:20:17.832446600Z,Player 20 attacks Player 33 with Bow! (hit)
+2023-05-22T21:20:17.836996700Z,Player 20 attacks Player 33 with Bow! (miss)
+2023-05-22T21:20:17.841443600Z,Player 33 attacks Player 20 with Bow! (miss)
+2023-05-22T21:20:17.845822700Z,Player 20 attacks Player 33 with Bow! (miss)
+2023-05-22T21:20:17.850815900Z,Player 33 attacks Player 20 with Bow! (miss)
+2023-05-22T21:20:17.855191700Z,Player 20 attacks Player 33 with Bow! (miss)
+2023-05-22T21:20:17.859193400Z,Player 33 attacks Player 20 with Bow! (miss)
+2023-05-22T21:20:17.864184700Z,Player 20 attacks Player 33 with Bow! (hit)
+2023-05-22T21:20:17.868932900Z,Player 20 attacks Player 33 with Bow! (miss)
+2023-05-22T21:20:17.873291Z,Player 33 dies!
+2023-05-22T21:20:17.877801500Z,Encounter finished!
+
+2023-05-22T21:20:17.882427700Z,Players move randomly!
+2023-05-22T21:20:17.886494900Z,Players move randomly!
+2023-05-22T21:20:17.890224400Z,Players move randomly!
+2023-05-22T21:20:17.895496700Z,Players move randomly!
+2023-05-22T21:20:17.899605600Z,Players move randomly!
+2023-05-22T21:20:17.904430400Z,Players move randomly!
+2023-05-22T21:20:17.908872400Z,Players move randomly!
+2023-05-22T21:20:17.912874900Z,Encounter started!
+2023-05-22T21:20:17.918100400Z,Player 0 attacks Player 20 with Sword! (miss)
+2023-05-22T21:20:17.922112800Z,Player 20 attacks Player 0 with Bow! (miss)
+2023-05-22T21:20:17.927104100Z,Player 0 attacks Player 20 with Sword! (hit)
+2023-05-22T21:20:17.931531300Z,Player 0 attacks Player 20 with Sword! (miss)
+2023-05-22T21:20:17.937215400Z,Player 20 attacks Player 0 with Bow! (miss)
+2023-05-22T21:20:17.941607500Z,Player 0 attacks Player 20 with Sword! (hit)
+2023-05-22T21:20:17.946609200Z,Player 0 attacks Player 20 with Sword! (miss)
+2023-05-22T21:20:17.951164400Z,Player 20 attacks Player 0 with Bow! (hit)
+2023-05-22T21:20:17.955165200Z,Player 20 attacks Player 0 with Bow! (miss)
+2023-05-22T21:20:17.960174600Z,Player 0 attacks Player 20 with Sword! (hit)
+2023-05-22T21:20:17.965251400Z,Player 0 attacks Player 20 with Sword! (miss)
+2023-05-22T21:20:17.969384100Z,Player 20 attacks Player 0 with Bow! (miss)
+2023-05-22T21:20:17.974533400Z,Player 0 attacks Player 20 with Sword! (hit)
+2023-05-22T21:20:17.978533900Z,Player 0 attacks Player 20 with Sword! (miss)
+2023-05-22T21:20:17.983467100Z,Player 20 attacks Player 0 with Bow! (hit)
+2023-05-22T21:20:17.988477100Z,Player 20 attacks Player 0 with Bow! (miss)
+2023-05-22T21:20:17.992553500Z,Player 0 dies!
+2023-05-22T21:20:17.997799900Z,Encounter finished!
+
+2023-05-22T21:20:18.001804200Z,Players move randomly!
+2023-05-22T21:20:18.006894900Z,Players move randomly!
+2023-05-22T21:20:18.010895800Z,Players move randomly!
+2023-05-22T21:20:18.016281900Z,Players move randomly!
+2023-05-22T21:20:18.021288700Z,Players move randomly!
+2023-05-22T21:20:18.026387100Z,Players move randomly!
+2023-05-22T21:20:18.030388Z,Players move randomly!
+2023-05-22T21:20:18.035385800Z,Players move randomly!
+2023-05-22T21:20:18.040481600Z,Players move randomly!
+2023-05-22T21:20:18.046106500Z,Encounter started!
+2023-05-22T21:20:18.050587400Z,Player 23 attacks Player 37 with Sword! (hit)
+2023-05-22T21:20:18.055588500Z,Player 23 attacks Player 37 with Sword! (miss)
+2023-05-22T21:20:18.060214700Z,Player 37 attacks Player 23 with Axe! (hit)
+2023-05-22T21:20:18.064227400Z,Player 37 attacks Player 23 with Axe! (miss)
+2023-05-22T21:20:18.068940300Z,Player 23 attacks Player 37 with Sword! (hit)
+2023-05-22T21:20:18.072942400Z,Player 23 attacks Player 37 with Sword! (miss)
+2023-05-22T21:20:18.076943300Z,Player 37 attacks Player 23 with Axe! (hit)
+2023-05-22T21:20:18.081921200Z,Player 37 attacks Player 23 with Axe! (miss)
+2023-05-22T21:20:18.085934400Z,Player 23 dies!
+2023-05-22T21:20:18.090017700Z,Encounter finished!
+
+2023-05-22T21:20:18.094026200Z,Players move randomly!
+2023-05-22T21:20:18.099027400Z,Players move randomly!
+2023-05-22T21:20:18.103087300Z,Players move randomly!
+2023-05-22T21:20:18.108088500Z,Players move randomly!
+2023-05-22T21:20:18.113174500Z,Players move randomly!
+2023-05-22T21:20:18.118175500Z,Players move randomly!
+2023-05-22T21:20:18.123257500Z,Players move randomly!
+2023-05-22T21:20:18.128260400Z,Players move randomly!
+2023-05-22T21:20:18.133316900Z,Players move randomly!
+2023-05-22T21:20:18.138317900Z,Players move randomly!
+2023-05-22T21:20:18.143280Z,Players move randomly!
+2023-05-22T21:20:18.148279600Z,Players move randomly!
+2023-05-22T21:20:18.152887200Z,Players move randomly!
+2023-05-22T21:20:18.157019500Z,Players move randomly!
+2023-05-22T21:20:18.162021Z,Players move randomly!
+2023-05-22T21:20:18.167095700Z,Players move randomly!
+2023-05-22T21:20:18.171911Z,Players move randomly!
+2023-05-22T21:20:18.176030Z,Players move randomly!
+2023-05-22T21:20:18.181029400Z,Players move randomly!
+2023-05-22T21:20:18.185971100Z,Players move randomly!
+2023-05-22T21:20:18.190977Z,Players move randomly!
+2023-05-22T21:20:18.195969200Z,Players move randomly!
+2023-05-22T21:20:18.201067Z,Encounter started!
+2023-05-22T21:20:18.205066200Z,Player 20 attacks Player 37 with Bow! (hit)
+2023-05-22T21:20:18.210139Z,Player 20 attacks Player 37 with Bow! (miss)
+2023-05-22T21:20:18.215140400Z,Player 37 attacks Player 20 with Axe! (hit)
+2023-05-22T21:20:18.219235700Z,Player 37 attacks Player 20 with Axe! (miss)
+2023-05-22T21:20:18.223632Z,Player 20 dies!
+2023-05-22T21:20:18.228729500Z,Encounter finished!
+
+2023-05-22T21:20:18.232730600Z,Players move randomly!
+2023-05-22T21:20:18.237722200Z,Players move randomly!
+2023-05-22T21:20:18.242813Z,Players move randomly!
+2023-05-22T21:20:18.247396500Z,Players move randomly!
+2023-05-22T21:20:18.251497800Z,Players move randomly!
+2023-05-22T21:20:18.255508100Z,Players move randomly!
+2023-05-22T21:20:18.260422300Z,Players move randomly!
+2023-05-22T21:20:18.264436100Z,Players move randomly!
+2023-05-22T21:20:18.268437Z,Players move randomly!
+2023-05-22T21:20:18.273550600Z,Players move randomly!
+2023-05-22T21:20:18.277942700Z,Players move randomly!
+2023-05-22T21:20:18.282039500Z,Players move randomly!
+2023-05-22T21:20:18.286745600Z,Players move randomly!
+2023-05-22T21:20:18.290758800Z,Players move randomly!
+2023-05-22T21:20:18.294858700Z,Players move randomly!
+2023-05-22T21:20:18.299841500Z,Players move randomly!
+2023-05-22T21:20:18.304258100Z,Players move randomly!
+2023-05-22T21:20:18.308270500Z,Players move randomly!
+2023-05-22T21:20:18.312980100Z,Players move randomly!
+2023-05-22T21:20:18.317059300Z,Players move randomly!
+2023-05-22T21:20:18.321050100Z,Players move randomly!
+2023-05-22T21:20:18.326387300Z,Players move randomly!
+2023-05-22T21:20:18.330662Z,Players move randomly!
+2023-05-22T21:20:18.335751600Z,Encounter started!
+2023-05-22T21:20:18.340772800Z,Player 16 attacks Player 37 with Bow! (hit)
+2023-05-22T21:20:18.344785300Z,Player 16 attacks Player 37 with Bow! (miss)
+2023-05-22T21:20:18.349634700Z,Player 37 dies!
+2023-05-22T21:20:18.354514600Z,Encounter finished!
+
+2023-05-22T21:20:18.359631600Z,Player 16 wins!
