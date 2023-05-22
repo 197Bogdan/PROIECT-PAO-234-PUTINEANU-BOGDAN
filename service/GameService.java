@@ -127,7 +127,6 @@ public class GameService {
         }
 
         // save game to csv
-        GamesCSVService fileWriter = GamesCSVService.getInstance();
-        fileWriter.addGame(game.getId(), loopCount, game.getPlayersAlive().get(0).getName());
+        GamesJDBCService.addGame(game.getId(), loopCount, game.getPlayersAlive().get(0).getName());
     }
 }

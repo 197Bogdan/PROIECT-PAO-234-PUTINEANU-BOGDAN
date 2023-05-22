@@ -8,12 +8,10 @@ public class Main {
     
     public static void main(String[] args) {
         // load weapon data
-        WeaponsCSVService weaponsReader = WeaponsCSVService.getInstance();
-        globals.Weapons.setAllWeapons(weaponsReader.readWeapons());
+        globals.Weapons.setAllWeapons(WeaponsJDBCService.readWeapons());
 
         //load game history
-        GamesCSVService gamesReader = GamesCSVService.getInstance();
-        ArrayList<GameHistory> gameHistory = gamesReader.readGames();
+        ArrayList<GameHistory> gameHistory = GamesJDBCService.readGames();
 
         //load past players
         PlayersCSVService playersReader = PlayersCSVService.getInstance();
