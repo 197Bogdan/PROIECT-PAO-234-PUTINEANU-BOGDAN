@@ -1,13 +1,12 @@
 package model;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class MapSection {
     private final int x;
     private final int y;
-    private final List<Player> players;
-    private final List<Item> items;
+    private final ArrayList<Player> players;
+    private final ArrayList<Weapon> items;
 
     public MapSection(int x, int y) {
         this.x = x;
@@ -28,19 +27,19 @@ public class MapSection {
         players.remove(player);
     }
 
-    public List<Player> getPlayers() {
+    public ArrayList<Player> getPlayers() {
         return players;
     }
 
-    public void addItem(Item item) {
+    public void addItem(Weapon item) {
         items.add(item);
     }
 
-    public void removeItem(Item item) {
-        items.remove(item);
+    public void removeItems() {
+        items.clear();
     }
 
-    public List<Item> getItems() {
+    public ArrayList<Weapon> getItems() {
         return items;
     }
 

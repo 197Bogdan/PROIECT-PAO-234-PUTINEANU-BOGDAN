@@ -37,6 +37,6 @@ public abstract class Weapon extends Item implements Comparable<Weapon> {
 
     @Override
     public int compareTo(Weapon o) {
-        return this.priority - o.priority;
+        return o.priority - this.priority;
     }
 }

@@ -1,5 +1,6 @@
 package model;
 
+import java.util.ArrayList;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
@@ -14,6 +15,9 @@ public class Player {
         this.name = name;
         this.health = health;
         this.weapons = new TreeSet<>();
+
+        weapons.add(new MeleeWeapon("Fist", 5, 80, 0, 1, -1, 0));   // default weapon
+        this.weapon = weapons.first();
     }
 
     public String getName() {
@@ -37,7 +41,6 @@ public class Player {
     }
 
 
-
     public MapSection getSection() {
         return section;
     }
@@ -46,8 +49,17 @@ public class Player {
         this.section = section;
     }
 
+    public SortedSet<Weapon> getWeapons() {
+        return weapons;
+    }
+
     public boolean isDead() {
         return health <= 0;
+    }
+
+    public void addWeapons(ArrayList<Weapon> weapons)
+    {
+        this.weapons.addAll(weapons);
     }
 
     @Override
