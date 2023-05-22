@@ -8,10 +8,12 @@ public class MapSection {
     private final int y;
     private final List<Player> players;
     private final List<Item> items;
+    private boolean isAccesible;
 
     public MapSection(int x, int y) {
         this.x = x;
         this.y = y;
+        this.isAccesible = true;
         this.players = new ArrayList<>();
         this.items = new ArrayList<>();
     }

@@ -21,15 +21,15 @@ public class GameService {
     }
 
     public void initializePlayers(List<Player> players) {          // spawn players randomly
-        for (int x = 0; x < game.getMap().getWidth(); x++) {
-            for (int y = 0; y < game.getMap().getHeight(); y++) {
-                game.getMap().getSections().set(x * game.getMap().getHeight() + y, new MapSection(x, y));
-            }
-        }
+        //for (int x = 0; x < game.getMap().getWidth(); x++) {
+        //    for (int y = 0; y < game.getMap().getHeight(); y++) {
+        //        game.getMap().getSections().set(x * game.getMap().getHeight() + y, new MapSection(x, y));
+        //    }
+        //}
         for (Player player : players) {
             int x = (int) (Math.random() * game.getMap().getWidth());
             int y = (int) (Math.random() * game.getMap().getHeight());
-            MapSection section = game.getMap().getSections().get(x * game.getMap().getWidth() + y);
+            MapSection section = game.getMap().getSections().get(x * game.getMap().getHeight() + y);
             section.addPlayer(player);
             player.setSection(section);
         }
@@ -43,7 +43,7 @@ public class GameService {
                 int y = player.getSection().getY() + (int) ((Math.random() * 3) - 1);
                 x = Math.max(Math.min(x, game.getMap().getWidth() - 1), 0);     // verify x in bounds
                 y = Math.max(Math.min(y, game.getMap().getHeight() - 1), 0);    // verify y in bounds
-                MapSection newSection = game.getMap().getSections().get(x * game.getMap().getWidth() + y);
+                MapSection newSection = game.getMap().getSections().get(x * game.getMap().getHeight() + y);
 
                 player.getSection().removePlayer(player);
                 player.setSection(newSection);
