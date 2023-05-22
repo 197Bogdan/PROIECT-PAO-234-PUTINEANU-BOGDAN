@@ -22,6 +22,7 @@ public class GameService {
     }
 
     public void initializePlayers(List<Player> players) {          // spawn players randomly
+
         for (Player player : players) {
             int x = (int) (Math.random() * game.getMap().getWidth());
             int y = (int) (Math.random() * game.getMap().getHeight());
@@ -31,6 +32,7 @@ public class GameService {
         }
 
         System.out.println("Players spawned randomly!\n\n");
+        AuditCSVService.addLog("Players spawned randomly!");
     }
 
     public void simulateGame() {
@@ -40,6 +42,7 @@ public class GameService {
         do {
             loopCount++;
             System.out.println("Stage " + loopCount + ":\nPlayers move randomly!\n");
+            AuditCSVService.addLog("Players move randomly!");
             for (Player player : game.getPlayersAlive()) {
                 int x = player.getSection().getX() + (int) ((Math.random() * 3) - 1);
                 int y = player.getSection().getY() + (int) ((Math.random() * 3) - 1);
@@ -58,6 +61,7 @@ public class GameService {
                 if (players.size() > 1)
                 {
                     System.out.println("Encounter started!");
+                    AuditCSVService.addLog("Encounter started!");
                     while(players.size() > 1)
                     {
                         // simulate encounter
@@ -72,19 +76,23 @@ public class GameService {
                             if (Math.random() * 100 < attacker.getWeapon().getAccuracy()){
                                 defender.setHealth(defender.getHealth() - attacker.getWeapon().getDamage());
                                 System.out.println(attacker.getName() + " attacks " + defender.getName() + " with " + attacker.getWeapon().getName() + "! (hit)");
+                                AuditCSVService.addLog(attacker.getName() + " attacks " + defender.getName() + " with " + attacker.getWeapon().getName() + "! (hit)");
                             }
                             else
                                 System.out.println(attacker.getName() + " attacks " + defender.getName() + " with " + attacker.getWeapon().getName() + "! (miss)");
+                            AuditCSVService.addLog(attacker.getName() + " attacks " + defender.getName() + " with " + attacker.getWeapon().getName() + "! (miss)");
 
 
                             if (defender.isDead()) {
                                 System.out.println(defender.getName() + " dies!");
+                                AuditCSVService.addLog(defender.getName() + " dies!");
                                 section.removePlayer(defender);
                                 killPlayer(defender);
                             }
                         }
                     }
                     System.out.println("Encounter finished!\n");
+                    AuditCSVService.addLog("Encounter finished!\n");
                 }
             }
 
@@ -96,6 +104,7 @@ public class GameService {
                     players.get(0).addWeapons(section.getItems());
                     for(Weapon w: section.getItems()){
                         System.out.println(players.get(0).getName() + " finds a(n) " + w.getName());
+                        AuditCSVService.addLog(players.get(0).getName() + " finds a(n) " + w.getName());
                     }
                     section.removeItems();
                     System.out.println();
@@ -111,8 +120,10 @@ public class GameService {
         // print result
         if (game.getPlayersAlive().size() == 1) {
             System.out.println(game.getPlayersAlive().get(0).getName() + " wins!");
+            AuditCSVService.addLog(game.getPlayersAlive().get(0).getName() + " wins!");
         } else {
             System.out.println("It's a tie!");
+            AuditCSVService.addLog("It's a tie!");
         }
 
         // save game to csv

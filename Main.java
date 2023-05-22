@@ -23,7 +23,7 @@ public class Main {
         MapsCSVService mapsReader = MapsCSVService.getInstance();
         ArrayList<Map> mapsHistory = mapsReader.readMaps();
 
-        int player_count = 115;
+        int player_count = 25;
         // register new players
         int lastPlayerId =  Integer.parseInt(registeredPlayers.get(registeredPlayers.size() - 1).split(" ")[1]);
         if(player_count > lastPlayerId)
@@ -41,6 +41,7 @@ public class Main {
         Game game = new Game(map, players, newId);
         GameService gameService = new GameService(game);
 
+        AuditCSVService.addLog("Starting game... (game id: " + newId + ")");
         // initialize players
         gameService.initializePlayers(players);
 

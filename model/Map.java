@@ -1,5 +1,7 @@
 package model;
 
+import service.AuditCSVService;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,6 +11,8 @@ public class Map {
     private List<MapSection> sections;
 
     public Map(int width, int height) {
+        AuditCSVService.addLog("Creating map...");
+        AuditCSVService.addLog("Spawning items...");
         this.width = width;
         this.height = height;
         this.sections = new ArrayList<>();
