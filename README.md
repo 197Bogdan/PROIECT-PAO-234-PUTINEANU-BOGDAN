@@ -2,6 +2,7 @@
 ## Idea: 
 Hunger games simulator (inspired from the movie/books). A number of players are put into a large arena and must fight to the death.
  ## Classes:
+Game = instance of a game
 Player = participant to a game <br>
 Item = object the participant can use to improve his chances <br>
 Weapon = item type used for fighing <br>
@@ -15,4 +16,4 @@ MapSection = a single square of the map <br>
 setters, getters for all <br>
 players: add, remove items, verify isAlive <br>
 map: initialize map sections randomly <br>
-mapService: simulate player movement, simulate player encounter/combat, display winner <br>
+gameService: simulate player movement, simulate player encounter/combat, display winner <br>
