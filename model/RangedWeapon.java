@@ -1,6 +1,9 @@
 package model;
 public class RangedWeapon extends Weapon {
-    public RangedWeapon(String name, int damage) {
-        super(name, damage);
+    private final int ammo;
+
+    public RangedWeapon(String name, int damage, float accuracy, int spawnRate, float attackRate, int ammo) {
+        super(name, damage, accuracy, spawnRate, attackRate);
+        this.ammo = ammo;
     }
 }
