@@ -5,14 +5,24 @@ import java.util.ArrayList;
 
 public class Game {
 
+    int id;
     private Map map;
     private List<Player> playersAlive;
     private List<Player> playersDead;
 
-    public Game(Map map, List<Player> players) {
+    public Game(Map map, List<Player> players, int id) {
+        this.id = id;
         this.map = map;
         this.playersAlive = players;
         this.playersDead = new ArrayList<>();
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public Map getMap() {

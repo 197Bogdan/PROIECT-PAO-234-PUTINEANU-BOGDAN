@@ -114,5 +114,9 @@ public class GameService {
         } else {
             System.out.println("It's a tie!");
         }
+
+        // save game to csv
+        GamesCSVService fileWriter = GamesCSVService.getInstance();
+        fileWriter.addGame(game.getId(), loopCount, game.getPlayersAlive().get(0).getName());
     }
 }

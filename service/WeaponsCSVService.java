@@ -11,16 +11,16 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class WeaponLoadService {
-    private static WeaponLoadService instance;
+public class WeaponsCSVService {
+    private static WeaponsCSVService instance;
 
-    private WeaponLoadService() {
+    private WeaponsCSVService() {
         // Private constructor to prevent instantiation from outside the class
     }
 
-    public static WeaponLoadService getInstance() {
+    public static WeaponsCSVService getInstance() {
         if (instance == null) {
-            instance = new WeaponLoadService();
+            instance = new WeaponsCSVService();
         }
         return instance;
     }
